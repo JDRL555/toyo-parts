@@ -2,18 +2,18 @@ from flask import Blueprint
 
 parts_routes = Blueprint("parts", __name__)
 
-@parts_routes.get("/")
+@parts_routes.get("/parts")
 def get_parts():
   return 'Get parts'
 
-@parts_routes.post("/")
+@parts_routes.post("/parts")
 def post_parts():
   return 'Post parts'
 
-@parts_routes.patch("/")
-def patch_parts():
+@parts_routes.patch("/parts/<id>")
+def patch_parts(id):
   return 'Patch parts'
 
-@parts_routes.delete("/")
-def delete_parts():
+@parts_routes.delete("/parts/<id>")
+def delete_parts(id):
   return 'Delete parts'
