@@ -1,5 +1,5 @@
 from utils.database import db
-from src.routes import parts, auth, users, roles, base
+from src.routes import parts, brands, categories, auth, users, roles, base
 from flask import Flask
 from dotenv import load_dotenv
 import os
@@ -20,6 +20,8 @@ with app.app_context():
 
 app.register_blueprint(base.base_routes)
 app.register_blueprint(parts.parts_routes)
+app.register_blueprint(brands.brands_routes)
+app.register_blueprint(categories.categories_routes)
 app.register_blueprint(auth.auth_routes)
 app.register_blueprint(users.users_routes)
 app.register_blueprint(roles.roles_routes)

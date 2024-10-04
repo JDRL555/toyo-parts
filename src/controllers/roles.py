@@ -55,7 +55,7 @@ def delete_role(role_id):
   
   if not role:
     return {
-      "message": "Usuario no encontrado"
+      "message": "Role no encontrado"
     }, 404
   
   db.session.delete(role)
