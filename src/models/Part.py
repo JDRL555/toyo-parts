@@ -1,19 +1,19 @@
 from utils.database import db
 
-class Category(db.Model):
+class Categories(db.Model):
   id = db.Column(db.Integer, primary_key=True)
   name = db.Column(db.String(100))
   
   def __init__(self, name):
     self.name = name  
     
-class Brand(db.Model):
+class Brands(db.Model):
   id = db.Column(db.Integer, primary_key=True)
   name = db.Column(db.String(100))
   
   def __init__(self, name):
     self.name = name  
-class Part(db.Model):
+class Parts(db.Model):
   id = db.Column(db.Integer, primary_key=True)
   code = db.Column(db.String(50), unique=True)
   quantity = db.Column(db.Integer)
@@ -21,8 +21,8 @@ class Part(db.Model):
   cost = db.Column(db.Float, nullable=True)
   price = db.Column(db.Float)
   inventory = db.Column(db.Integer, nullable=True)
-  brand_id = db.Column(db.Integer, db.ForeignKey('brand.id'), nullable=False)
-  category_id = db.Column(db.Integer, db.ForeignKey('category.id'), nullable=False)
+  brand_id = db.Column(db.Integer, db.ForeignKey('brands.id'), nullable=False)
+  category_id = db.Column(db.Integer, db.ForeignKey('categories.id'), nullable=False)
   
   def __init__(self, code, quantity, description, cost, price, brand_id, category_id):
     self.code = code
