@@ -1,3 +1,4 @@
+from seed import seed
 from utils.database import db
 from src.routes import parts, brands, categories, auth, users, roles, base
 from flask import Flask
@@ -17,6 +18,7 @@ db.init_app(app=app)
 
 with app.app_context():
   db.create_all()
+  seed(database=db)
 
 app.register_blueprint(base.base_routes)
 app.register_blueprint(parts.parts_routes)
