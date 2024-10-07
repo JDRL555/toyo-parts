@@ -1,0 +1,11 @@
+{% extends 'layouts/layout.html' %}
+
+{% block styles %}
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/parts.css') }}">
+{% endblock %}
+
+{% block content %}
+  <main class="main-content">
+    <h1>Bievenido de vuelta {{ current_user.fullname }}!</h1>
+  </main>
+{% endblock %}

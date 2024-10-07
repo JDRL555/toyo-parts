@@ -45,12 +45,14 @@ def create_user(data):
       return {
         "message": "Role no encontrado"
       }, 404
+      
+  role_client = Roles.query.filter_by(name="cliente").first()
   
   new_user = {
     "fullname": data.get("fullname"),
     "email": data.get("email"),
     "password": hashed_password,
-    "role_id": 1 if not role else role.id
+    "role_id": role_client.id if not role else role.id
   }
   
   user = Users(**new_user)

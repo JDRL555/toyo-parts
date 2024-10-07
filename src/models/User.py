@@ -1,3 +1,4 @@
+from flask_login import UserMixin
 from utils.database import db
 
 class Roles(db.Model):
@@ -7,7 +8,7 @@ class Roles(db.Model):
   def __init__(self, name):
     self.name = name
 
-class Users(db.Model):
+class Users(db.Model, UserMixin):
   id = db.Column(db.Integer, primary_key=True)
   fullname = db.Column(db.String(100))
   email = db.Column(db.String(100), unique=True)

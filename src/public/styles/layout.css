@@ -49,3 +49,7 @@ a {
 a:hover {
   color: rgb(154, 208, 255);
 }
+
+.error {
+  color: rgb(236,50,55);
+}

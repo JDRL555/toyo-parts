@@ -1,4 +1,4 @@
-from flask import Blueprint, request
+from flask import Blueprint, request, redirect, flash
 from src.controllers import users as user_controller
 
 users_routes = Blueprint("users", __name__)
@@ -9,7 +9,11 @@ def get_users():
 
 @users_routes.post("/users")
 def post_user():
-  return user_controller.create_user(request.form)
+  error = user_controller.create_user(request.form)
+  if error[1] != 201:
+    flash(error[0]["message"])
+    return redirect("/register")
+  return redirect("/")
 
 @users_routes.patch("/users/<id>")
 def patch_users(id):
