@@ -1,0 +1,9 @@
+{% macro navbar() %}
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/navbar.css') }}">
+  <nav>
+    <img src="{{ url_for('static', filename='imgs/logo.jpg') }}" alt="logo">
+    <div>
+      <button>Iniciar sesion</button>
+    </div>
+  </nav>
+{% endmacro %}

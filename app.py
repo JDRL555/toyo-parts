@@ -8,8 +8,9 @@ import os
 load_dotenv()
 
 template_dir = os.path.abspath('src/public/templates')
+static_dir = os.path.abspath('src/public')
 
-app = Flask(__name__, template_folder=template_dir)
+app = Flask(__name__, template_folder=template_dir, static_folder=static_dir)
 
 app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get("SQLALCHEMY_URI")
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
