@@ -1,11 +1,22 @@
 from flask import jsonify
 from src.models.Part import Parts, Categories, Brands
 
-def get_parts(limit = 10):
-  parts = Parts.query.limit(limit).all()
+def get_parts_len():
+  return len(Parts.query.all())
+
+def get_parts(page = 1):
+  global parts
   list_parts = []
   
-  for part in parts:
+  try:
+    parts = Parts.query.order_by("description").paginate(page=page, per_page=29)
+  except:
+    return []
+  
+  if len(parts.items) == 0:
+    return []
+  
+  for part in parts.items:
     brand = Brands.query.get(part.brand_id)
     category = Categories.query.get(part.category_id)
 
@@ -27,4 +38,4 @@ def get_parts(limit = 10):
       },
     })
     
-  return jsonify(list_parts)
+  return list_parts

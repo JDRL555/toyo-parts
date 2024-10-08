@@ -10,6 +10,7 @@ def login():
     flash(error[0]["message"])
   return redirect("/")
 
-@auth_routes.post("/logout")
+@auth_routes.get("/logout")
 def logout():
-  return 'Logout user'
+  auth_controller.logout()
+  return redirect("/")

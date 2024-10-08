@@ -1,4 +1,4 @@
-from flask_login import login_user
+from flask_login import login_user, logout_user
 from bcrypt import checkpw
 from src.models.User import Users
 
@@ -20,3 +20,6 @@ def login(email, password):
   return {
       "message": "Sesion iniciada correctamente!"
     }, 200
+  
+def logout():
+  logout_user()

@@ -1,0 +1,20 @@
+.parts_title {
+  margin-left: 30px;
+}
+
+h1.parts_title {
+  margin-bottom: 0;
+}
+
+h2.parts_title {
+  margin-top: 0;
+}
+
+h2.no_encontrado {
+  text-align: center;
+  color: rgb(236,50,55);
+}
+
+th[colspan="6"] a {
+  padding: 0 20px;
+}

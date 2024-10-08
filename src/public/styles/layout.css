@@ -50,6 +50,35 @@ a:hover {
   color: rgb(154, 208, 255);
 }
 
+table {
+  width: 95%;
+  border-radius: 10px;
+  text-align: center;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+table th {
+  border-bottom: 1px solid white;
+  background-color: rgb(236,50,55);
+  color: white;
+}
+
+table th,
+table tr {
+  padding: 10px 0;
+  transition: .3s;
+}
+
+table tr:hover {
+  background-color: rgb(236,50,55);
+  color: white;
+}
+
+table td {
+  padding: 5px 0;
+}
+
 .error {
   color: rgb(236,50,55);
 }

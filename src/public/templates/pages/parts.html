@@ -5,7 +5,55 @@
 {% endblock %}
 
 {% block content %}
-  <main class="main-content">
-    <h1>Bievenido de vuelta {{ current_user.fullname }}!</h1>
+  <main>
+    <h1 class="parts_title">Bievenido, {{ current_user.fullname }}!</h1>
+    <h2 class="parts_title">Estos son los repuestos disponibles</h2>
+    {% if data.parts|length == 0 %}
+      <h2 class="no_encontrado">No hay o no se encuentran los productos solicitados...</h2>
+    {% else %}
+      <table>
+        <thead>
+          <tr>
+            <th colspan="6">
+              <a href="/">
+                Primera pagina
+              </a>
+              <a href="{% if request.args.get('page') != None and request.args.get('page')|int != 1 %} /?page={{ (request.args.get('page')|int or 1) - 1 }} {% else %} / {% endif %} ">
+                Anterior pagina
+              </a>
+              <span>
+                {{ (request.args.get('page')|int or 1) * 29 }} de {{ data.parts_len }}
+              </span>
+              <a href="{% if request.args.get('page')|int != 46 %} /?page={{ (request.args.get('page')|int or 1) + 1 }} {% endif %}">
+                Siguiente pagina
+              </a>
+              <a href="/?page=46">
+                Ultima pagina
+              </a>
+            </th>
+          </tr>
+          <tr>
+            <th>ID</th>
+            <th>Codigo</th>
+            <th>Descripcion</th>
+            <th>Marca</th>
+            <th>Precio</th>
+            <th>Categoria</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for part in data.parts %}
+            <tr>
+              <td>{{ part.id }}</td>
+              <td>{{ part.code }}</td>
+              <td>{{ part.description }}</td>
+              <td>{{ part.brand.name }}</td>
+              <td>{{ part.price }}$</td>
+              <td>{{ part.category.name }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% endif %}
   </main>
 {% endblock %}
