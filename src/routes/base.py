@@ -1,6 +1,7 @@
 from flask import Blueprint, render_template, request
 from flask_login import current_user
 from src.controllers import parts as part_controller
+from src.models.User import Roles
 
 base_routes = Blueprint("base_routes", __name__)
 
@@ -15,6 +16,15 @@ def index_page():
       page = 1
       
     parts = part_controller.get_parts(page=page)
+    
+    role = Roles.query.get(current_user.role_id)
+    
+    if role.name != "cliente":
+      return render_template("pages/admin.html", data={ 
+      "parts": parts,
+      "parts_len": part_controller.get_parts_len()  
+    })
+    
     return render_template("pages/parts.html", data={ 
       "parts": parts,
       "parts_len": part_controller.get_parts_len()  

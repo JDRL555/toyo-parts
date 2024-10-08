@@ -15,6 +15,19 @@ h2.no_encontrado {
   color: rgb(236,50,55);
 }
 
-th[colspan="6"] a {
+th.paginate_table a {
   padding: 0 20px;
+}
+
+td.admin_button {
+  cursor: pointer;
+  transition: .3s;
+}
+
+td.edit:hover {
+  background-color: rgb(80, 80, 251);
+}
+
+td.delete:hover {
+  background-color: rgb(251, 197, 80);
 }

@@ -6,15 +6,15 @@
 
 {% block content %}
   <main>
-    <h1 class="parts_title">Bievenido, {{ current_user.fullname }}!</h1>
-    <h2 class="parts_title">Estos son los repuestos disponibles</h2>
+    <h1 class="parts_title">Bievenido, administrador {{ current_user.fullname }}!</h1>
+    <h2 class="parts_title">Estos son los repuestos para poder administrar</h2>
     {% if data.parts|length == 0 %}
       <h2 class="no_encontrado">No hay o no se encuentran los productos solicitados...</h2>
     {% else %}
       <table>
         <thead>
           <tr>
-            <th colspan="6" class="paginate_table">
+            <th colspan="8" class="paginate_table">
               <a href="/">
                 Primera pagina
               </a>
@@ -39,6 +39,8 @@
             <th>Marca</th>
             <th>Precio</th>
             <th>Categoria</th>
+            <th>Editar</th>
+            <th>Eliminar</th>
           </tr>
         </thead>
         <tbody>
@@ -50,6 +52,12 @@
               <td>{{ part.brand.name }}</td>
               <td>{{ part.price }}$</td>
               <td>{{ part.category.name }}</td>
+              <td class="admin_button edit">
+                ✏️
+              </td>
+              <td class="admin_button delete">
+                🗑️
+              </td>
             </tr>
           {% endfor %}
         </tbody>
