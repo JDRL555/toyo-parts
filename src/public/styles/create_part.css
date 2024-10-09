@@ -1,0 +1,11 @@
+.admin_main {
+  margin: 0 60px;
+}
+
+.admin_main input, .admin_main textarea, .admin_main select {
+  margin-bottom: 10px;
+}
+
+.admin_main form {
+  margin-bottom: 20px;
+}

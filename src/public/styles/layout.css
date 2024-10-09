@@ -26,7 +26,7 @@ label {
   font-size: 17px;
 }
 
-input {
+input, textarea, select {
   display: block;
   font-size: 17px;
   padding: 5px;
@@ -37,8 +37,13 @@ input {
   border: 1px solid black;
 }
 
-input:focus {
+input:focus, textarea:focus, select:focus {
   box-shadow:  5px 5px 1px rgb(236,50,55);
+}
+
+textarea {
+  resize: none;
+  height: 150px;
 }
 
 a {

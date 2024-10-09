@@ -19,15 +19,30 @@ th.paginate_table a {
   padding: 0 20px;
 }
 
-td.admin_button {
+.admin_button {
   cursor: pointer;
   transition: .3s;
 }
 
-td.edit:hover {
+a.admin_button {
+  padding: 10px;
+  margin-right: 30px;
+}
+
+.edit:hover {
   background-color: rgb(80, 80, 251);
 }
 
-td.delete:hover {
+.delete:hover {
   background-color: rgb(251, 197, 80);
+}
+
+.create:hover {
+  background-color: rgb(148, 251, 80);
+}
+
+div.header_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }

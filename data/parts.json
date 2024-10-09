@@ -1,7 +1,7 @@
 [
 	{
 		"code": "53111-35590",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PARRILLA DELANTERA 4RUNNER 03-05",
 		"brand": "TOYOTA JAPAN",
 		"cost": 120.0,
@@ -11,7 +11,7 @@
 	},
 	{
 		"code": "76801-35320 B",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PLATINA COMPUERTA TAPA MALETA 4RUNNER 03-08",
 		"brand": "TOYOTA JAPAN",
 		"cost": 80.0,
@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "64321-35320",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "SUICHERA DE IGNICION DE 4RUNNER 03-08",
 		"brand": "TOYOTA JAPAN",
 		"cost": 100.0,
@@ -31,7 +31,7 @@
 	},
 	{
 		"code": "23826-31010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MANGURA N\u00ba 1 DE ALIMENTACION DE VAPOR DE COMBUSTIBLE",
 		"brand": "TOYOTA JAPAN",
 		"cost": 17.0,
@@ -41,7 +41,7 @@
 	},
 	{
 		"code": "17109-31012",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TANQUE DE COMPENSACION DE AIRE DE ADMISION",
 		"brand": "TOYOTA JAPAN",
 		"cost": 100.0,
@@ -51,7 +51,7 @@
 	},
 	{
 		"code": "13568-19135 MTR",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA DE TIEMPO COROLLA 1,6 ARAYA / SKY / BABY CAMRY",
 		"brand": "MOTRO",
 		"cost": 8.0,
@@ -61,7 +61,7 @@
 	},
 	{
 		"code": "13568-19135",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA DE TIEMPO COROLLA 1,6 ARAYA / SKY / BABY CAMRY",
 		"brand": "NPC JAPON",
 		"cost": 11.0,
@@ -91,7 +91,7 @@
 	},
 	{
 		"code": "13568-19046 G",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "CORREA DE TIEMPO COROLLA 1,8 F.I. 99-02",
 		"brand": "GATES",
 		"cost": 12.0,
@@ -101,7 +101,7 @@
 	},
 	{
 		"code": "13568-69095",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA DE TIEMPO 4RUNNER2001-2002 / PRADO 5VZ",
 		"brand": "TOYOTA",
 		"cost": 25.52,
@@ -111,7 +111,7 @@
 	},
 	{
 		"code": "13568-69095 G",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA DE TIEMPO 4RUNNER 2001-2002 / PRADO 5VZ",
 		"brand": "GATES",
 		"cost": 18.5,
@@ -131,7 +131,7 @@
 	},
 	{
 		"code": "13568-19025",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "CORREA DE TIEMPO STARLET 123 DIENTES",
 		"brand": "NPC JAPON",
 		"cost": 14.28,
@@ -151,7 +151,7 @@
 	},
 	{
 		"code": "13568-19125",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA DE TIEMPO DE COROLLA AVILA",
 		"brand": "TOYOTA",
 		"cost": 12.5,
@@ -161,7 +161,7 @@
 	},
 	{
 		"code": "13568-19125 M",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "CORREA DE TIEMPO DE COROLLA AVILA",
 		"brand": "MITSUBA",
 		"cost": 6.5,
@@ -181,7 +181,7 @@
 	},
 	{
 		"code": "16571-61110",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MANGUERA DE RADIADOR SUPERIOR DE 3F",
 		"brand": "KOSYN",
 		"cost": 4.0,
@@ -191,7 +191,7 @@
 	},
 	{
 		"code": "16572-11280",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MANGUERA DE RADIADOR SUPERIOR STARLET 93-98",
 		"brand": "KOSYN",
 		"cost": 5.0,
@@ -201,7 +201,7 @@
 	},
 	{
 		"code": "16322-11081 / 91",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MANGUERA DE RADIADOR INFERIOR STARLET",
 		"brand": "KOSYN",
 		"cost": 3.5,
@@ -211,7 +211,7 @@
 	},
 	{
 		"code": "16571-BZ120",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MANGUERA DE RADIADOR SUPERIOR TERIOS BE-GO 08-14",
 		"brand": "KOSYN",
 		"cost": 5.0,
@@ -221,7 +221,7 @@
 	},
 	{
 		"code": "16572-BZ100",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MANGUERA DE RADIADOR INFERIOR TERIOS BE-GO 08-14",
 		"brand": "KOSYN",
 		"cost": 4.0,
@@ -231,7 +231,7 @@
 	},
 	{
 		"code": "16572-66010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MANGUERA DE RADIADOR SUPERIOR DE MACHITO 4,5",
 		"brand": "KOSYN",
 		"cost": 7.5,
@@ -241,7 +241,7 @@
 	},
 	{
 		"code": "M035",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "GOMA PARA BARRA ESTABILIZADORA KAVAK / HILUX 2,7 / FORTUNER / 4RUNNER",
 		"brand": "MOI GOMAS",
 		"cost": 2.42,
@@ -251,7 +251,7 @@
 	},
 	{
 		"code": "M084",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "GOMA BARRA ESTABILIZADORA TRASERA COROLLA 03-13 (2 UNI.)",
 		"brand": "MOI GOMAS",
 		"cost": 2.29,
@@ -261,7 +261,7 @@
 	},
 	{
 		"code": "M085",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "GOMA BARRA ESTABILIZADORA DELANTERA COROLLA 03-13 (2 UNI.)",
 		"brand": "MOI GOMAS",
 		"cost": 2.29,
@@ -271,7 +271,7 @@
 	},
 	{
 		"code": "M101",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "GOMA BARRA ESTABILIZADORA YARIS TODOS",
 		"brand": "MOI GOMAS",
 		"cost": 2.38,
@@ -281,7 +281,7 @@
 	},
 	{
 		"code": "90389-18002",
-		"quantity": 0,
+		"quantity": 14,
 		"description": "GOMA BUJE BALLESTAS SAMURAY 2F-3F / MACHITO 2F-3F",
 		"brand": "SHIBUMI",
 		"cost": 0.45,
@@ -291,7 +291,7 @@
 	},
 	{
 		"code": "90389-18002",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GOMA BUJE BALLESTAS SAMURAY 2F-3F / MACHITO 2F-3F",
 		"brand": "GENERICO",
 		"cost": 0.3,
@@ -301,7 +301,7 @@
 	},
 	{
 		"code": "M027-4",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "GOMA DE LAPIZ BARRA ESTA. PRADO/MERU/4RUNNER/MACHITO/HEMBRA 4,5 (8 UNI.)",
 		"brand": "MOI GOMAS",
 		"cost": 3.44,
@@ -311,7 +311,7 @@
 	},
 	{
 		"code": "M099",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GOMA DE LAPIZ BARRA ESTA. TERIOS (8 UNI.)",
 		"brand": "MOI GOMAS",
 		"cost": 3.45,
@@ -321,7 +321,7 @@
 	},
 	{
 		"code": "M022-3",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "GUARDAPOLVO CAJETIN DE DIRECCION YARIS",
 		"brand": "MOI GOMAS",
 		"cost": 2.61,
@@ -331,7 +331,7 @@
 	},
 	{
 		"code": "M018-4",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO CAJETIN DIRECCION HILUX KAVAK / FORTUNER",
 		"brand": "MOI GOMAS",
 		"cost": 3.52,
@@ -341,7 +341,7 @@
 	},
 	{
 		"code": "M062",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO CAJETIN DIRECCION MERU / PRADO / 4RUNNER",
 		"brand": "MOI GOMAS",
 		"cost": 2.81,
@@ -351,7 +351,7 @@
 	},
 	{
 		"code": "M024-2",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "GUARDAPOLVO CAJETIN DIRECCION (LH) IZQUI. COROLLA 86-08",
 		"brand": "MOI GOMAS",
 		"cost": 2.64,
@@ -361,7 +361,7 @@
 	},
 	{
 		"code": "M025-2",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "GUARDAPOLVO CAJETIN DIRECCION (RH) DERE. COROLLA 86-08",
 		"brand": "MOI GOMAS",
 		"cost": 2.64,
@@ -371,7 +371,7 @@
 	},
 	{
 		"code": "M024-3",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "GUARDAPOLVO CAJETIN DIRECCION (LH) STARLET",
 		"brand": "MOI GOMAS",
 		"cost": 2.64,
@@ -381,7 +381,7 @@
 	},
 	{
 		"code": "M025-3",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "GUARDAPOLVO CAJETIN DIRECCION (RH) STARLET",
 		"brand": "MOI GOMAS",
 		"cost": 2.64,
@@ -391,7 +391,7 @@
 	},
 	{
 		"code": "M021-16",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO AMORTIGUADOR DELANT. TERIOS TODAS",
 		"brand": "MOI GOMAS",
 		"cost": 3.25,
@@ -401,7 +401,7 @@
 	},
 	{
 		"code": "M023-15",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO AMORTIGUADOR TRASE. TERIOS TODAS",
 		"brand": "MOI GOMAS",
 		"cost": 3.39,
@@ -411,7 +411,7 @@
 	},
 	{
 		"code": "M023",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "GUARDAPOLVO AMORTIGUADOR DELANT. COROLLA 86-02",
 		"brand": "MOI GOMAS",
 		"cost": 3.39,
@@ -421,7 +421,7 @@
 	},
 	{
 		"code": "M021-20",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO AMORTIGUADOR TRASE. COROLLA 86-02",
 		"brand": "MOI GOMAS",
 		"cost": 3.25,
@@ -431,7 +431,7 @@
 	},
 	{
 		"code": "M021-18",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO AMORTIGUADOR TRASE. STARLET",
 		"brand": "MOI GOMAS",
 		"cost": 3.25,
@@ -441,7 +441,7 @@
 	},
 	{
 		"code": "M021-8",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO AMORTIGUADOR TRASE. YARIS",
 		"brand": "MOI GOMAS",
 		"cost": 3.25,
@@ -451,7 +451,7 @@
 	},
 	{
 		"code": "M009",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "GUARDAPOLVO TRIPOIDE L/C COROLLA 00-10",
 		"brand": "MOI GOMAS",
 		"cost": 2.86,
@@ -461,7 +461,7 @@
 	},
 	{
 		"code": "M030",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "GUARDAPOLVO TRIPOIDE L/R COROLLA 00-10",
 		"brand": "MOI GOMAS",
 		"cost": 2.72,
@@ -471,7 +471,7 @@
 	},
 	{
 		"code": "M003-10",
-		"quantity": 0,
+		"quantity": 7,
 		"description": "GUARDAPOLVO TRIPOIDE L/R COROLLA 86-99",
 		"brand": "MOI GOMAS",
 		"cost": 2.16,
@@ -481,7 +481,7 @@
 	},
 	{
 		"code": "YB001",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/C COROLLA 86-99",
 		"brand": "YB GOMAS",
 		"cost": 2.0,
@@ -491,7 +491,7 @@
 	},
 	{
 		"code": "M016",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "GUARDAPOLVO TRIPOIDE L/C HILUX 2,7 / HILUX KAVAK / FORTUNER",
 		"brand": "MOI GOMAS",
 		"cost": 4.06,
@@ -501,7 +501,7 @@
 	},
 	{
 		"code": "M015",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "GUARDAPOLVO TRIPOIDE L/R HILUX 2,7 / HILUX KAVAK / FORTUNER",
 		"brand": "MOI GOMAS",
 		"cost": 3.29,
@@ -511,7 +511,7 @@
 	},
 	{
 		"code": "M051",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/C EXTRA LARGA HILUX 2,7 / HILUX KAVAK / FORTUNER",
 		"brand": "MOI GOMAS",
 		"cost": 6.32,
@@ -521,7 +521,7 @@
 	},
 	{
 		"code": "M050",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "GUARDAPOLVO TRIPOIDE L/R EXTRA LARGA HILUX 2,7 / HILUX KAVAK / FORTUNER",
 		"brand": "MOI GOMAS",
 		"cost": 4.85,
@@ -531,7 +531,7 @@
 	},
 	{
 		"code": "M009-1",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/C YARIS",
 		"brand": "MOI GOMAS",
 		"cost": 2.86,
@@ -541,7 +541,7 @@
 	},
 	{
 		"code": "M003-6",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/R YARIS",
 		"brand": "MOI GOMAS",
 		"cost": 2.16,
@@ -551,7 +551,7 @@
 	},
 	{
 		"code": "M009-1 S",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/C STARLET",
 		"brand": "MOI GOMAS",
 		"cost": 2.86,
@@ -561,7 +561,7 @@
 	},
 	{
 		"code": "M003-2",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "GUARDAPOLVO TRIPOIDE L/R STARLET",
 		"brand": "MOI GOMAS",
 		"cost": 2.16,
@@ -571,7 +571,7 @@
 	},
 	{
 		"code": "M010-1",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "GUARDAPOLVO TRIPOIDE L/R Y L/C TERIOS 02-07",
 		"brand": "MOI GOMAS",
 		"cost": 2.26,
@@ -581,7 +581,7 @@
 	},
 	{
 		"code": "M011-2",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "GUARDAPOLVO TRIPOIDE L/C TERIOS BE-GO",
 		"brand": "MOI GOMAS",
 		"cost": 2.26,
@@ -591,7 +591,7 @@
 	},
 	{
 		"code": "M010-2",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "GUARDAPOLVO TRIPOIDE L/R TERIOS BE-GO",
 		"brand": "MOI GOMAS",
 		"cost": 2.26,
@@ -601,7 +601,7 @@
 	},
 	{
 		"code": "M016-2",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/C TACOMA",
 		"brand": "MOI GOMAS",
 		"cost": 4.06,
@@ -611,7 +611,7 @@
 	},
 	{
 		"code": "M015-1",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/R TACOMA",
 		"brand": "MOI GOMAS",
 		"cost": 3.29,
@@ -621,7 +621,7 @@
 	},
 	{
 		"code": "M013",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/R MERU / PRADO",
 		"brand": "MOI GOMAS",
 		"cost": 3.29,
@@ -631,7 +631,7 @@
 	},
 	{
 		"code": "M032",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/C MERU / PRADO",
 		"brand": "MOI GOMAS",
 		"cost": 4.05,
@@ -641,7 +641,7 @@
 	},
 	{
 		"code": "M076",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/C EXTRA LARGA MERU / PRADO",
 		"brand": "MOI GOMAS",
 		"cost": 6.32,
@@ -651,7 +651,7 @@
 	},
 	{
 		"code": "M075",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GUARDAPOLVO TRIPOIDE L/R EXTRA LARGA MERU / PRADO",
 		"brand": "MOI GOMAS",
 		"cost": 4.85,
@@ -661,7 +661,7 @@
 	},
 	{
 		"code": "90913-02048",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "GOMA VAQLVULAS 2F ()PAQUETE DE 12",
 		"brand": "BSG (JAPON)",
 		"cost": 20.0,
@@ -671,7 +671,7 @@
 	},
 	{
 		"code": "90913-02095 G",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "GOMA VALVULA CAMRY MOTOR 3VZ NOK (PAQ. 8)",
 		"brand": "TOYOTA",
 		"cost": 3.4,
@@ -681,7 +681,7 @@
 	},
 	{
 		"code": "90913-02112 G",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "GOMA VALVULA HILUX 2TR. KAVAK 1 GR COROLLA SENSACION NOK (PAQ. 8)",
 		"brand": "TOYOTA",
 		"cost": 4.4,
@@ -701,7 +701,7 @@
 	},
 	{
 		"code": "90913-02097",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GOMA VALV. ESCAPE MACHITO-BURBUJA-AUTANA (PAQ. 12) 4.5 1fzfe (NOK)",
 		"brand": "TOYOTA",
 		"cost": 7.5,
@@ -711,7 +711,7 @@
 	},
 	{
 		"code": "90913-02096",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "GOMA VALV. ADMISION MACHITO-BURBUJA-AUTANA (PAQ. 12) 4.5 1fzfe (NOK)",
 		"brand": "TOYOTA",
 		"cost": 7.5,
@@ -721,7 +721,7 @@
 	},
 	{
 		"code": "90913-02071",
-		"quantity": 0,
+		"quantity": 8,
 		"description": "SKY-STARLET-AVILA-BABY CAMRY-HILUX2,7 3RZ (PAQ. 8)",
 		"brand": "TOYOTA",
 		"cost": 4.5,
@@ -731,7 +731,7 @@
 	},
 	{
 		"code": "90080-31043",
-		"quantity": 0,
+		"quantity": 7,
 		"description": "COROL.NEW SENSATION /4RUNNER/FORTUNER/KAVAK/HIACE2TRZ (PAQ.8)",
 		"brand": "TOYOTA",
 		"cost": 3.5,
@@ -741,7 +741,7 @@
 	},
 	{
 		"code": "13715-97401",
-		"quantity": 0,
+		"quantity": 8,
 		"description": "VALVULAS DE ESCAPE TERIOS 02-07 C/u",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -751,7 +751,7 @@
 	},
 	{
 		"code": "13711-97401",
-		"quantity": 0,
+		"quantity": 8,
 		"description": "VALVULAS DE ADMISION TERIOS 02-07 C/u",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -761,7 +761,7 @@
 	},
 	{
 		"code": "90913-02120 G",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "GOMA VALVULA TOYOTA TERIOS 1,3 YARIS 1,3 YARIS BELTA 1,5 (NOK)PAQUETE",
 		"brand": "TOYOTA",
 		"cost": 5.0,
@@ -771,7 +771,7 @@
 	},
 	{
 		"code": "15100-97401",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA DE ACEITE TERIOS 02-07",
 		"brand": "TOYOTA",
 		"cost": 44.0,
@@ -791,7 +791,7 @@
 	},
 	{
 		"code": "04211-35462",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "KIT DE CARBURADOR HILUX 22R",
 		"brand": "KEYSTER",
 		"cost": 13.0,
@@ -801,7 +801,7 @@
 	},
 	{
 		"code": "04211-66010/20/30",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "KIT DE CARBURADOR DE 4.5 AUTANA / MACHITO / BURBUJA",
 		"brand": "KEYSTER",
 		"cost": 16.0,
@@ -811,7 +811,7 @@
 	},
 	{
 		"code": "04211-66031",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE CARBURADOR DE 4,5 AUTANA / MACHITO / BURBUJA NUEVO",
 		"brand": "NAPCO",
 		"cost": 26.0,
@@ -821,7 +821,7 @@
 	},
 	{
 		"code": "04211-66031",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE CARBURADOR DE 4,5 AUTANA / MACHITO / BURBUJA NUEVO",
 		"brand": "KEYSTER",
 		"cost": 17.0,
@@ -831,7 +831,7 @@
 	},
 	{
 		"code": "04211-11180",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "KIT DE CARBURADOR DE STARLET",
 		"brand": "KEYSTER",
 		"cost": 10.0,
@@ -841,7 +841,7 @@
 	},
 	{
 		"code": "04211-61110/1",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE CARBURADOR DE 2F",
 		"brand": "KEYSTER",
 		"cost": 13.0,
@@ -851,7 +851,7 @@
 	},
 	{
 		"code": "04211-61200",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "KIT DE CARBURADOR DE 3F",
 		"brand": "KEYSTER",
 		"cost": 13.0,
@@ -861,7 +861,7 @@
 	},
 	{
 		"code": "99939",
-		"quantity": 0,
+		"quantity": 5,
 		"description": "SILICON GRIS",
 		"brand": "MEGA GREY",
 		"cost": 4.0,
@@ -871,7 +871,7 @@
 	},
 	{
 		"code": "99938",
-		"quantity": 0,
+		"quantity": 12,
 		"description": "SILICON GRIS BANDERA",
 		"brand": "MEGA GREY",
 		"cost": 1.5,
@@ -881,7 +881,7 @@
 	},
 	{
 		"code": "04111-11026",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "KIT DE EMPACADURA STARLET 90-99",
 		"brand": "TOYOTA",
 		"cost": 23.0,
@@ -891,7 +891,7 @@
 	},
 	{
 		"code": "04111-0T130",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPAQUES COROLLA IRANI ( PATRULLAS)",
 		"brand": "TOYOTA",
 		"cost": 45.0,
@@ -901,7 +901,7 @@
 	},
 	{
 		"code": "04111-0T220",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA COROLLA 2015",
 		"brand": "TOYOTA",
 		"cost": 40.0,
@@ -911,7 +911,7 @@
 	},
 	{
 		"code": "04111-16231",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA COROLLA (F.I) 95-02 1.6",
 		"brand": "TOYOTA",
 		"cost": 24.76,
@@ -921,7 +921,7 @@
 	},
 	{
 		"code": "04111-16090",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "KIT DE EMPAQUES COROLLA AVILA",
 		"brand": "TOYOTA",
 		"cost": 26.0,
@@ -931,7 +931,7 @@
 	},
 	{
 		"code": "04111-16122",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "KIT DE EMPAQUES COROLLA 92-98 CARBURADO",
 		"brand": "TOYOTA",
 		"cost": 30.0,
@@ -941,7 +941,7 @@
 	},
 	{
 		"code": "04111-21231",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA YARIS (TODOS)",
 		"brand": "TOYOTA",
 		"cost": 28.0,
@@ -951,7 +951,7 @@
 	},
 	{
 		"code": "04111-75102",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA HILUX 2,7 3RZ 2003",
 		"brand": "TOYOTA",
 		"cost": 30.0,
@@ -961,7 +961,7 @@
 	},
 	{
 		"code": "04111-35342",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA HILUX 93-98 MOTOR 22R",
 		"brand": "TOYOTA",
 		"cost": 25.0,
@@ -971,7 +971,7 @@
 	},
 	{
 		"code": "04111-31342",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA HILUX KAVAK / FORTUNER / 4RUNNER MOTOR 4,0",
 		"brand": "TOYOTA",
 		"cost": 59.0,
@@ -981,7 +981,7 @@
 	},
 	{
 		"code": "04111-62081",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA 4RUNNER / PRADO 5VZ 00-02",
 		"brand": "TOYOTA",
 		"cost": 60.0,
@@ -991,7 +991,7 @@
 	},
 	{
 		"code": "04111-97403",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA TERIOS 02/08",
 		"brand": "TOYOTA",
 		"cost": 31.2,
@@ -1001,7 +1001,7 @@
 	},
 	{
 		"code": "04111-22561-152",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA NEW SENSATION 1,8",
 		"brand": "TOYOTA",
 		"cost": 30.0,
@@ -1011,7 +1011,7 @@
 	},
 	{
 		"code": "04111-66054",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA 4.5 AUTANA / MACHITO / BURBUJA",
 		"brand": "TOYOTA",
 		"cost": 65.0,
@@ -1021,7 +1021,7 @@
 	},
 	{
 		"code": "04111-61040",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA DE 2F",
 		"brand": "TOYOTA",
 		"cost": 35.0,
@@ -1031,7 +1031,7 @@
 	},
 	{
 		"code": "04111-61058",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE EMPACADURA DE 3F",
 		"brand": "TOYOTA",
 		"cost": 35.0,
@@ -1041,7 +1041,7 @@
 	},
 	{
 		"code": "11115-16050",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA DE CAMARA COROLLA 85-89",
 		"brand": "TOYOTA",
 		"cost": 6.19,
@@ -1051,7 +1051,7 @@
 	},
 	{
 		"code": "11115-16121",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA DE CAMARA COROLLA 1.8 94-02",
 		"brand": "TOYOTA",
 		"cost": 10.58,
@@ -1061,7 +1061,7 @@
 	},
 	{
 		"code": "11115-21050",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA DE CAMARA YARIS 1NZFE/2NZFE",
 		"brand": "TOYOTA",
 		"cost": 7.0,
@@ -1071,7 +1071,7 @@
 	},
 	{
 		"code": "11115-37061",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA DE CAMARA COROLLA ZR (IRANI) 09-20",
 		"brand": "TOYOTA",
 		"cost": 7.5,
@@ -1081,7 +1081,7 @@
 	},
 	{
 		"code": "11115-22050",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA DE CAMARA COROLLA 03-08",
 		"brand": "TOYOTA",
 		"cost": 5.0,
@@ -1091,7 +1091,7 @@
 	},
 	{
 		"code": "11115-31030",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA CAMARA MOTOR 4.0 DER. (AMIANTO)",
 		"brand": "TOYOTA",
 		"cost": 11.9,
@@ -1101,7 +1101,7 @@
 	},
 	{
 		"code": "11116-31010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA CAMARA MOTOR 4.0 IZQ. (AMIANTO)",
 		"brand": "TOYOTA",
 		"cost": 12.39,
@@ -1111,7 +1111,7 @@
 	},
 	{
 		"code": "11115-61010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "EMPACADURA DE CAMARA MACHO 2F",
 		"brand": "TOYOTA",
 		"cost": 8.76,
@@ -1121,7 +1121,7 @@
 	},
 	{
 		"code": "11115-61030",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "EMPACADURA DE CAMARA MACHIT/SAMURAY 3F",
 		"brand": "TOYOTA",
 		"cost": 8.76,
@@ -1131,7 +1131,7 @@
 	},
 	{
 		"code": "11115-62080",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA DE CAMARA PRADO 01-02 DER.",
 		"brand": "TOYOTA",
 		"cost": 9.0,
@@ -1141,7 +1141,7 @@
 	},
 	{
 		"code": "11115-66031",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA DE CAMARA LAND CRUISER 93-07",
 		"brand": "TOYOTA",
 		"cost": 12.38,
@@ -1151,7 +1151,7 @@
 	},
 	{
 		"code": "11115-75031",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA DE CAMARA HILUX 2RZFE/3RZFE MERU",
 		"brand": "TOYOTA",
 		"cost": 9.1,
@@ -1161,7 +1161,7 @@
 	},
 	{
 		"code": "11115-75050",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "EMPACADURA DE CAMARA HILUX 2.7 2TR",
 		"brand": "TOYOTA",
 		"cost": 9.05,
@@ -1171,7 +1171,7 @@
 	},
 	{
 		"code": "11115-16150",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA DE CAMARA COROLLA 1,6 F.I.",
 		"brand": "TOYOTA",
 		"cost": 6.0,
@@ -1181,7 +1181,7 @@
 	},
 	{
 		"code": "11115-16082",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "EMPACADURA DE CAMARA COROLLA 1,6 CARB",
 		"brand": "TOYOTA",
 		"cost": 5.5,
@@ -1191,7 +1191,7 @@
 	},
 	{
 		"code": "11115-11010",
-		"quantity": 0,
+		"quantity": 5,
 		"description": "EMPACADURA DE CAMARA STARLET 90-99",
 		"brand": "TOYOTA",
 		"cost": 6.0,
@@ -1201,7 +1201,7 @@
 	},
 	{
 		"code": "11115-11071",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA DE CAMARA COROLLA 1,3 F.I.",
 		"brand": "TOYOTA",
 		"cost": 5.0,
@@ -1211,7 +1211,7 @@
 	},
 	{
 		"code": "11115-35022",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "EMPACADURA DE CAMARA HILUX 22RZ",
 		"brand": "TOYOTA",
 		"cost": 6.38,
@@ -1221,7 +1221,7 @@
 	},
 	{
 		"code": "11115-97403",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "EMPACADURA CAMARA TOYOTA TERIOS 2000/2008",
 		"brand": "TOYOTA",
 		"cost": 5.2,
@@ -1231,7 +1231,7 @@
 	},
 	{
 		"code": "90041-10045",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "TORNILLO DE CAMARA DE TERIOS 02/08",
 		"brand": "DAIHATSU",
 		"cost": 5.0,
@@ -1241,7 +1241,7 @@
 	},
 	{
 		"code": "11193-70010",
-		"quantity": 0,
+		"quantity": 12,
 		"description": "SELLO DE BUJIA AUTANA/ PRADO/ 4RUNNER 01-02/ CAMRY",
 		"brand": "TOYOTA",
 		"cost": 1.6,
@@ -1251,7 +1251,7 @@
 	},
 	{
 		"code": "11193-15010",
-		"quantity": 0,
+		"quantity": 11,
 		"description": "SELLO DE BUJIA COROLLA 90-02 / 1,6-1,8",
 		"brand": "TOYOTA",
 		"cost": 1.6,
@@ -1261,7 +1261,7 @@
 	},
 	{
 		"code": "11213-0C010",
-		"quantity": 0,
+		"quantity": 7,
 		"description": "EMPACADURA TAPA VALVUL EXTER. HILUX 2.7 2TR",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -1271,7 +1271,7 @@
 	},
 	{
 		"code": "11213-10011",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA TAPA VALVULA STARLET",
 		"brand": "TOYOTA",
 		"cost": 2.5,
@@ -1281,7 +1281,7 @@
 	},
 	{
 		"code": "11213-15071",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "EMPACADURA TAPA VALVULA COROLLA 96-02 FULL INY",
 		"brand": "TOYOTA",
 		"cost": 2.5,
@@ -1291,7 +1291,7 @@
 	},
 	{
 		"code": "11213-21011",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "EMPACADURA TAPA VALVULA YARIS 1NZFE/2NZF",
 		"brand": "TOYOTA",
 		"cost": 2.5,
@@ -1301,7 +1301,7 @@
 	},
 	{
 		"code": "11213-22050",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "EMPACADURA TAPA VALVULA COROLLA 03-08",
 		"brand": "TOYOTA",
 		"cost": 2.6,
@@ -1311,7 +1311,7 @@
 	},
 	{
 		"code": "11213-58030",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA TAPA VALVULA DYNA 14B 95-06",
 		"brand": "NATZUKI",
 		"cost": 2.0,
@@ -1331,7 +1331,7 @@
 	},
 	{
 		"code": "11213-31030",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "EMPACADURA TAPA VALVULA DER. MOTOR 4.0 1GR",
 		"brand": "TOYOTA",
 		"cost": 3.15,
@@ -1401,7 +1401,7 @@
 	},
 	{
 		"code": "11213-62020",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "EMPACADURA TAPA VALVULA MOTOR 5VZ 4RUNNER PRADO",
 		"brand": "TOYOTA",
 		"cost": 2.44,
@@ -1411,7 +1411,7 @@
 	},
 	{
 		"code": "11213-66021",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA TAPA VALVULA MOTOR 4.5 MACHITO BURBUJA AUTANA",
 		"brand": "TOYOTA",
 		"cost": 3.07,
@@ -1421,7 +1421,7 @@
 	},
 	{
 		"code": "11213-74020",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA TAPA VALVULA CELICA/CAMRY -98",
 		"brand": "TOYOTA",
 		"cost": 2.52,
@@ -1431,7 +1431,7 @@
 	},
 	{
 		"code": "11213-75030",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA TAPA VALVULA HILUX 2RZ 3RZ HIKUX MERU",
 		"brand": "TOYOTA",
 		"cost": 2.42,
@@ -1441,7 +1441,7 @@
 	},
 	{
 		"code": "11213-97401",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "EMPACADURA TAPA VALVULA TERIOS 2002-2008",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -1451,7 +1451,7 @@
 	},
 	{
 		"code": "11214-0C010/75011",
-		"quantity": 0,
+		"quantity": 7,
 		"description": "SELLO DE BUJIA EMPAQUE TAPA VALVULA HILUX 2.7 2TR / HIACE",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -1461,7 +1461,7 @@
 	},
 	{
 		"code": "90210-06010",
-		"quantity": 0,
+		"quantity": 8,
 		"description": "SELLO DE TORNILLO TAPA VALVULA COROLLA 1.6 / 1.8 99-02",
 		"brand": "TOYOTA",
 		"cost": 0.9,
@@ -1481,7 +1481,7 @@
 	},
 	{
 		"code": "11214-31030",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "EMPACADURA TAPA VALVULA IZQ. MOTOR 4.0 1GR",
 		"brand": "TOYOTA",
 		"cost": 3.1,
@@ -1491,7 +1491,7 @@
 	},
 	{
 		"code": "11213-11041",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "EMPACADURA TAPA VALVULA CELICA IMPORTADO 1,3 F.I.",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -1501,7 +1501,7 @@
 	},
 	{
 		"code": "11213-75039",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "EMPACADURA TAPA VALVULA HILUX 2.7 (2RZ, 3RZ) MERU",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -1521,7 +1521,7 @@
 	},
 	{
 		"code": "11213- 15050 LT",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "EMPACADURA TAPA VALVULA COROLLA CARBURADO 92-96",
 		"brand": "LANDSTAR",
 		"cost": 5.0,
@@ -1551,7 +1551,7 @@
 	},
 	{
 		"code": "90480-18001",
-		"quantity": 0,
+		"quantity": 12,
 		"description": "SELLOS DE VALVULA PCV",
 		"brand": "TOYOTA",
 		"cost": 2.0,
@@ -1561,7 +1561,7 @@
 	},
 	{
 		"code": "90311-10082",
-		"quantity": 0,
+		"quantity": 10,
 		"description": "ESTOPERA INTERNA DEL DISTRIBUIDOR DE COROLLA 93-02",
 		"brand": "TOYOTA",
 		"cost": 3.5,
@@ -1571,7 +1571,7 @@
 	},
 	{
 		"code": "90311-99010",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA TRASERA CIG\u00dcE\u00d1AL 4RUNNER/FORTUNNER/KAVAK",
 		"brand": "TOYOTA",
 		"cost": 6.0,
@@ -1581,7 +1581,7 @@
 	},
 	{
 		"code": "90311-25021",
-		"quantity": 0,
+		"quantity": 6,
 		"description": "ESTOPERA DEL. CIG\u00dcE\u00d1AL YARIS",
 		"brand": "TOYOTA",
 		"cost": 2.56,
@@ -1591,7 +1591,7 @@
 	},
 	{
 		"code": "90311-38051",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ESTOPERA ARBOL DE LEVA MERU PRADO RUNER",
 		"brand": "TOYOTA",
 		"cost": 3.4,
@@ -1601,7 +1601,7 @@
 	},
 	{
 		"code": "90311-38051",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "ESTOPERA DAMPER COROLLA 03 AL 2015 1.6 1.8",
 		"brand": "TOYOTA",
 		"cost": 3.4,
@@ -1611,7 +1611,7 @@
 	},
 	{
 		"code": "90311-38059",
-		"quantity": 0,
+		"quantity": 6,
 		"description": "ESTOPERA DEL CIG\u00dcE\u00d1AL COROLLA 03 AL 15 1.6 1.8",
 		"brand": "TOYOTA",
 		"cost": 3.06,
@@ -1621,7 +1621,7 @@
 	},
 	{
 		"code": "90311-42036",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA DEL CIG\u00dcE\u00d1AL 4RUNER FORTUNER KAVAK 1GR",
 		"brand": "TOYOTA",
 		"cost": 2.5,
@@ -1631,7 +1631,7 @@
 	},
 	{
 		"code": "90311-48014",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA DEL. CIG\u00dcE\u00d1AL MERU HILUX",
 		"brand": "TOYOTA",
 		"cost": 3.4,
@@ -1641,7 +1641,7 @@
 	},
 	{
 		"code": "90311-52022",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA DAMPER DEL. CIG\u00dcE\u00d1AL MACHITO AUTANA BURBUJA 4.5",
 		"brand": "TOYOTA",
 		"cost": 3.4,
@@ -1651,7 +1651,7 @@
 	},
 	{
 		"code": "90311-75016",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "ESTOPERA TRASERA DEL CIG\u00dcE\u00d1AL YARIS",
 		"brand": "TOYOTA",
 		"cost": 3.6,
@@ -1661,7 +1661,7 @@
 	},
 	{
 		"code": "90311-76001",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "ESTOPERA TRASERA DEL CIG\u00dcE\u00d1AL COROLLA SENSANCION",
 		"brand": "TOYOTA",
 		"cost": 3.7,
@@ -1671,7 +1671,7 @@
 	},
 	{
 		"code": "90311-70007",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA TRASERA DEL CIG\u00daE\u00d1AL COROLLA 92-2002",
 		"brand": "TOYOTA",
 		"cost": 3.5,
@@ -1681,7 +1681,7 @@
 	},
 	{
 		"code": "90311-48025",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ESTOPERA TRANSFER 4.5",
 		"brand": "TOYOTA",
 		"cost": 4.37,
@@ -1691,7 +1691,7 @@
 	},
 	{
 		"code": "90311-48016",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ESTOPERA CENTRAL#1 ENTRE CAJA Y TRANSFER MACHITO FJ70 / FJ75",
 		"brand": "TOYOTA",
 		"cost": 3.52,
@@ -1701,7 +1701,7 @@
 	},
 	{
 		"code": "90311-38051",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ESTOPERA ARBOL DE LEVA PRADO VZJ95L",
 		"brand": "TOYOTA",
 		"cost": 4.84,
@@ -1711,7 +1711,7 @@
 	},
 	{
 		"code": "90311-88003",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ESTOPERA TRASERA DEL CIG\u00dcE\u00d1AL HIACE MOTOR 2TR MERU HILUX",
 		"brand": "TOYOTA",
 		"cost": 4.76,
@@ -1721,7 +1721,7 @@
 	},
 	{
 		"code": "90311-35035",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ESTOPERA DEL. CIG\u00dcE\u00d1AL STARLET",
 		"brand": "TOYOTA",
 		"cost": 2.5,
@@ -1731,7 +1731,7 @@
 	},
 	{
 		"code": "90311-99010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ESTOPERA TRAS CIGUE\u00d1AL 4RUNNER/FORTU/KAV 4.0 1GR",
 		"brand": "TOYOTA",
 		"cost": 11.43,
@@ -1741,7 +1741,7 @@
 	},
 	{
 		"code": "90311-42045",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "SELLO ACEITE CAJA ENGR DISTRIB CAMRY 09 /4RUNNER/ KAVAK/ FORTUNER",
 		"brand": "TOYOTA",
 		"cost": 3.95,
@@ -1751,7 +1751,7 @@
 	},
 	{
 		"code": "90311-75009",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ESTOPERA TRAS CIGUE\u00d1AL STARLET MOTOR 2E",
 		"brand": "TOYOTA",
 		"cost": 4.0,
@@ -1761,7 +1761,7 @@
 	},
 	{
 		"code": "90311-92009",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA TRASERA CIGUE\u00d1ALRUNER Y PRADO 5VZ Y CAMRY 3VZ",
 		"brand": "TOYOTA",
 		"cost": 3.5,
@@ -1771,7 +1771,7 @@
 	},
 	{
 		"code": "90311-32020",
-		"quantity": 0,
+		"quantity": 9,
 		"description": "ESTOPERA CIGUE\u00d1AL FRONTAL COROLLA 93-02",
 		"brand": "TOYOTA",
 		"cost": 2.43,
@@ -1781,7 +1781,7 @@
 	},
 	{
 		"code": "90311-40022",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA DELANT CIGUE\u00d1 4RUNNER/PRAD 5VZ",
 		"brand": "TOYOTA",
 		"cost": 4.38,
@@ -1791,7 +1791,7 @@
 	},
 	{
 		"code": "90311-52022",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ESTOPERA FRONTAL CIGUE\u00d1AL MOTOR 1FZ 4500",
 		"brand": "TOYOTA",
 		"cost": 3.17,
@@ -1801,7 +1801,7 @@
 	},
 	{
 		"code": "90311-99009",
-		"quantity": 0,
+		"quantity": 6,
 		"description": "ESTOPERA TRASERA CIG\u00dcE\u00d1AL AUTANA BURBUJA MACHITO",
 		"brand": "TOYOTA",
 		"cost": 5.2,
@@ -1821,7 +1821,7 @@
 	},
 	{
 		"code": "90311-35040",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA DELANTERA CIG\u00dcE\u00d1AL TOYOTA TERIOS 1.3 1.5",
 		"brand": "TOYOTA",
 		"cost": 1.5,
@@ -1831,7 +1831,7 @@
 	},
 	{
 		"code": "90311-62002",
-		"quantity": 0,
+		"quantity": 10,
 		"description": "ESTOPERA INT. DE RUEDA TRAS. BURBUJA/ MACHITO 4,5 /AUTANA",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -1841,7 +1841,7 @@
 	},
 	{
 		"code": "90043-11309",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "ESTOPERA TRANSFER CARDAN TERIOS 2000-2008",
 		"brand": "TOYOTA",
 		"cost": 4.34,
@@ -1851,7 +1851,7 @@
 	},
 	{
 		"code": "90043-11364",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA CIGU\u00d1AL TRASERA TERIOS 02/07",
 		"brand": "TOYOTA",
 		"cost": 9.0,
@@ -1861,7 +1861,7 @@
 	},
 	{
 		"code": "04422-20010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE ESTOPERA DE RUEDA DELT. COROLLA AVILA",
 		"brand": "TOYOTA",
 		"cost": 9.0,
@@ -1881,7 +1881,7 @@
 	},
 	{
 		"code": "90043-11291",
-		"quantity": 0,
+		"quantity": 9,
 		"description": "ESTOPERA TRASERA DE RUEDA DE TERIOS",
 		"brand": "TOYOTA",
 		"cost": 9.25,
@@ -1891,7 +1891,7 @@
 	},
 	{
 		"code": "90310-50005",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA PUNTA DE EJE TRASERO MERU (RUNNER/KAVAC/FORTUNER) 4,0",
 		"brand": "GOS JAPAN",
 		"cost": 2.0,
@@ -1901,7 +1901,7 @@
 	},
 	{
 		"code": "90310-50006",
-		"quantity": 0,
+		"quantity": 10,
 		"description": "ESTOPERA PUNTA DE EJE TRASERO MERU (RUNNER/KAVAC/FORTUNER) 4,0",
 		"brand": "TOYOTA",
 		"cost": 2.5,
@@ -1911,7 +1911,7 @@
 	},
 	{
 		"code": "90310-35001",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ESTOPERA PUNTA DE EJE MACHITO 80-86 FLOTANTE / AUTANA / SAMURAY",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -1921,7 +1921,7 @@
 	},
 	{
 		"code": "90311-47001",
-		"quantity": 0,
+		"quantity": 6,
 		"description": "ESTOPERA TRAS. PUNTA DE EJE 2F / AUTANA",
 		"brand": "TOYOTA",
 		"cost": 2.8,
@@ -2721,7 +2721,7 @@
 	},
 	{
 		"code": "11193-15010",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "SELLO BUJIA COROLLA 90 AL 2002 1.6-1.8 C/u",
 		"brand": "TOYOTA",
 		"cost": 1.6,
@@ -2731,7 +2731,7 @@
 	},
 	{
 		"code": "11193-70010",
-		"quantity": 0,
+		"quantity": 12,
 		"description": "SELLO BUJIA AUTANA/PRADO/4RUN 01-02CAMRY",
 		"brand": "TOYOTA",
 		"cost": 1.6,
@@ -2801,7 +2801,7 @@
 	},
 	{
 		"code": "15330-22030G",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "VALVULA VVTI COROLLA 2003-UP (OCV)",
 		"brand": "TOYOTA",
 		"cost": 31.0,
@@ -2861,7 +2861,7 @@
 	},
 	{
 		"code": "15330-31010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "VALVULA VVTI DE ACEITE (R) MOTOR 4.0",
 		"brand": "TOYOTA",
 		"cost": 38.1,
@@ -2901,7 +2901,7 @@
 	},
 	{
 		"code": "15678-31010",
-		"quantity": 0,
+		"quantity": 10,
 		"description": "MICROFILTROS DE CAMARA FORTUNER / KAVAK / 4RUNNER MOTOR 1GRE",
 		"brand": "TOYOTA",
 		"cost": 7.0,
@@ -2911,7 +2911,7 @@
 	},
 	{
 		"code": "15678-21010",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "MICROFILTROS DE CAMARA DE HILUX 2,7 / TERIOS / YARIS / COROLLA",
 		"brand": "TOYOTA",
 		"cost": 8.0,
@@ -2941,7 +2941,7 @@
 	},
 	{
 		"code": "04152-38010",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "FILTRO DE ACEITE ELEMENTO RUNNER 2010-15/ FORTUNER 2015/ TUNDRA",
 		"brand": "DENSO JAPAN",
 		"cost": 6.88,
@@ -2981,7 +2981,7 @@
 	},
 	{
 		"code": "04152-YZZA6",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "ELEMENTO FILTRO ACEITE COROLLA 15 ADEL",
 		"brand": "TOYOTA",
 		"cost": 4.5,
@@ -2991,7 +2991,7 @@
 	},
 	{
 		"code": "15600-41010 MF",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE ACEITE MACHITO/ SAMURAI/ DINA / MOTOR 2F / 3F/ COASTER MOTOR 14B",
 		"brand": "MILLARD",
 		"cost": 10.0,
@@ -3001,7 +3001,7 @@
 	},
 	{
 		"code": "90915-03002",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "FILTRO DE ACEITE 4 RUNNER / HILUX KAVAK / FORTUNER",
 		"brand": "DENSO JAPAN",
 		"cost": 6.0,
@@ -3011,7 +3011,7 @@
 	},
 	{
 		"code": "90915-10004",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE ACEITE COROLLA/ TERIOS/ YARIS",
 		"brand": "MOTRO",
 		"cost": 3.76,
@@ -3041,7 +3041,7 @@
 	},
 	{
 		"code": "90915-YZZE1",
-		"quantity": 0,
+		"quantity": 5,
 		"description": "FILTRO DE ACEITE DE PREVIA / CAMRY/ COROLLA/ CELICA/ YARIS / TERIOS",
 		"brand": "TOYOTA",
 		"cost": 4.0,
@@ -3121,7 +3121,7 @@
 	},
 	{
 		"code": "35330-12020",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO ACEITE DE CAJA COROLLA 94-02 / STARLET TODOS",
 		"brand": "TOYOTA",
 		"cost": 10.0,
@@ -3131,7 +3131,7 @@
 	},
 	{
 		"code": "35330-52010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO ACEITE DE CAJA AUTOMATICA YARIS 99-09",
 		"brand": "TOYOTA",
 		"cost": 8.5,
@@ -3141,7 +3141,7 @@
 	},
 	{
 		"code": "35330-97501",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE ACEITE DE CAJA DE TERIOS 02-07",
 		"brand": "DAIHATSU",
 		"cost": 14.0,
@@ -3151,7 +3151,7 @@
 	},
 	{
 		"code": "35330-60010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE CAJA AUTANA / BURBUJA 92-07",
 		"brand": "TOYOTA",
 		"cost": 15.0,
@@ -3161,7 +3161,7 @@
 	},
 	{
 		"code": "35330-0W020",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE CAJA AUTOM COROLLA 09-15",
 		"brand": "TOYOTA",
 		"cost": 10.0,
@@ -3171,7 +3171,7 @@
 	},
 	{
 		"code": "35330-30020",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE CAJA 4RUNNER 00-01-02",
 		"brand": "TOYOTA",
 		"cost": 8.0,
@@ -3181,7 +3181,7 @@
 	},
 	{
 		"code": "35330-60050",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO ACEITE DE CAJA FORTUNER / 4RUNNER / HILUX KAVAK",
 		"brand": "TOYOTA",
 		"cost": 13.0,
@@ -3191,7 +3191,7 @@
 	},
 	{
 		"code": "83530-60040",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "VALVULA DE PRESION DE ACEITE STARLET/AVILA/ARAYA/BABY CAMRY",
 		"brand": "TOYOTA",
 		"cost": 6.0,
@@ -3281,7 +3281,7 @@
 	},
 	{
 		"code": "16577-22030",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "TUBO RADIADOR COROLLA 09-14",
 		"brand": "TOYOTA",
 		"cost": 11.5,
@@ -3291,7 +3291,7 @@
 	},
 	{
 		"code": "16577-22030 A",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TUBO RADIADOR COROLLA 09-14 ALUMINIO",
 		"brand": "E2",
 		"cost": 16.0,
@@ -3321,7 +3321,7 @@
 	},
 	{
 		"code": "16321-22070",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "TOMA DE AGUA COROLLA 03/08",
 		"brand": "TOYOTA",
 		"cost": 8.99,
@@ -3331,7 +3331,7 @@
 	},
 	{
 		"code": "16321-21020",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "TOMA DE AGUA COROLLA 03/12 YARIS 1NZFE",
 		"brand": "TOYOTA",
 		"cost": 5.0,
@@ -3341,7 +3341,7 @@
 	},
 	{
 		"code": "16502-21010",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "TOMA DE AGUA RADIADOR YARIS 1NZFE/2NZFE 2000/2005",
 		"brand": "TOYOTA",
 		"cost": 5.75,
@@ -3371,7 +3371,7 @@
 	},
 	{
 		"code": "16100-39345",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA AGUA HILUX 22R",
 		"brand": "AMB",
 		"cost": 18.75,
@@ -3441,7 +3441,7 @@
 	},
 	{
 		"code": "90916-03129",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TERMOSTATO DE COROLLA 03-07 / CAMRY",
 		"brand": "TOYOTA",
 		"cost": 10.5,
@@ -3451,7 +3451,7 @@
 	},
 	{
 		"code": "90916-03093",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TERMOSTATO DE YARIS/MERU/HIACE/HILUX 2,7",
 		"brand": "TOYOTA",
 		"cost": 11.5,
@@ -3461,7 +3461,7 @@
 	},
 	{
 		"code": "90048-33088",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TERMOSTATO DE TERIOS",
 		"brand": "TOYOTA",
 		"cost": 10.5,
@@ -3471,7 +3471,7 @@
 	},
 	{
 		"code": "90916-33088",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TERMOSTATO DE TERIOS BE-GO",
 		"brand": "TOYOTA",
 		"cost": 10.5,
@@ -3481,7 +3481,7 @@
 	},
 	{
 		"code": "90916-03117",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TERMOSTATO LAND CRUISER 4.5 (1FZ)",
 		"brand": "TOYOTA",
 		"cost": 16.9,
@@ -3491,7 +3491,7 @@
 	},
 	{
 		"code": "23210-B1031",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CONJUNTO DE GASOLINA TERIOS BE-GO",
 		"brand": "DAIHATSU",
 		"cost": 75.0,
@@ -3501,7 +3501,7 @@
 	},
 	{
 		"code": "77020-35072",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CONJUNTO DE GASOLINA COMPLETA 4RUNNER 03-08",
 		"brand": "TOYOTA",
 		"cost": 100.0,
@@ -3521,7 +3521,7 @@
 	},
 	{
 		"code": "77020-02190",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CONJUNTO DE GASOLINA COMPLETO DE COROLLA 03-08 SENSACI\u00d3N",
 		"brand": "TOYOTA",
 		"cost": 90.0,
@@ -3541,7 +3541,7 @@
 	},
 	{
 		"code": "2068 M",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "PILA DE GASOLINA UNIVERSAL",
 		"brand": "BOSCH",
 		"cost": 11.0,
@@ -3551,7 +3551,7 @@
 	},
 	{
 		"code": "23221-22140",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PILA DE GASOLINA COROLLA YARIS FOTUNER KAVAK 2012 EN ADELANTE",
 		"brand": "TOYOTA",
 		"cost": 18.33,
@@ -3561,7 +3561,7 @@
 	},
 	{
 		"code": "23220-21211",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PILA DE GASOLINA COROLLA 2015-UP / YARIS 2017-UP",
 		"brand": "CENTURY JAPAN",
 		"cost": 44.5,
@@ -3581,7 +3581,7 @@
 	},
 	{
 		"code": "23220-OP010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PILA DE GASOLINA HILUX KAVAK / FORTUNER",
 		"brand": "TOYOTA",
 		"cost": 15.0,
@@ -3591,7 +3591,7 @@
 	},
 	{
 		"code": "23220-OP010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PILA GAS. HILUX KAVAK FORTUNER YARIS",
 		"brand": "DENSO JAPAN",
 		"cost": 152.0,
@@ -3601,7 +3601,7 @@
 	},
 	{
 		"code": "23220-OP010 CEN",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PILA GAS. HILUX KAVAK FORTUNER YARIS",
 		"brand": "CENTURY JAPAN",
 		"cost": 42.0,
@@ -3611,7 +3611,7 @@
 	},
 	{
 		"code": "23221-50100",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA GASOLINA TOY/4RUNNER 03/09 CON U\u00d1A",
 		"brand": "TOYOTA",
 		"cost": 15.0,
@@ -3621,7 +3621,7 @@
 	},
 	{
 		"code": "23221-50100 FK",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA DE GASOLINA 4RUNNER 03/09 CON U\u00d1A",
 		"brand": "FUKA",
 		"cost": 14.0,
@@ -3631,7 +3631,7 @@
 	},
 	{
 		"code": "23221-15040 D",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "BOMBAS GAS. MERU/ COROLLA/ TUNDRA /TACOMA/4,5 FULL INYEC. TERIOS",
 		"brand": "DENSO JAPAN",
 		"cost": 70.04,
@@ -3641,7 +3641,7 @@
 	},
 	{
 		"code": "23221-15040 C",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA GAS. MERU / COROLLA / TUNDRA / TACOMA / 4.5 FULL INYEC. / TERIOS",
 		"brand": "CENTURY JAPAN",
 		"cost": 42.0,
@@ -3651,7 +3651,7 @@
 	},
 	{
 		"code": "23100-11080 F",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBAS GASOLINA MECANICA STARLET (TP775)",
 		"brand": "KYOSAN JAPAN",
 		"cost": 39.0,
@@ -3661,7 +3661,7 @@
 	},
 	{
 		"code": "23100-61100",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "Bomba Gasolina 3 Tubos-2F FJ40 TP605, GFUP-T14",
 		"brand": "KYOSAN JAPAN",
 		"cost": 54.0,
@@ -3671,7 +3671,7 @@
 	},
 	{
 		"code": "23100-69085",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA GASOLINA MECANICA AUTANA / BURBUJA / MACHITO 4,5",
 		"brand": "KYOSAN JAPAN",
 		"cost": 69.0,
@@ -3681,7 +3681,7 @@
 	},
 	{
 		"code": "23100-19195",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBAS GASOLINA MECANICA AE 82 AVILA (TP 682)",
 		"brand": "KYOSAN JAPAN",
 		"cost": 45.0,
@@ -3691,7 +3691,7 @@
 	},
 	{
 		"code": "23100-35040",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA GASOLINA HILUX 88 MOTOR 22R",
 		"brand": "KYOSAN JAPAN",
 		"cost": 43.0,
@@ -3701,7 +3701,7 @@
 	},
 	{
 		"code": "23100-15081",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA GAS. COROLLA ARAYA BABY CAMRY AE92 CARBURADOR (TP738)",
 		"brand": "KYOSAN JAPAN",
 		"cost": 49.0,
@@ -3721,7 +3721,7 @@
 	},
 	{
 		"code": "23280-21010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "REGULADOR DE PRESION DE GASOLINA YARIS 06-09 / COROLLA 09-14",
 		"brand": "TOYOTA",
 		"cost": 7.0,
@@ -3741,7 +3741,7 @@
 	},
 	{
 		"code": "83320-12840",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA COROLLA 2009-2014",
 		"brand": "TOYOTA",
 		"cost": 22.5,
@@ -3751,7 +3751,7 @@
 	},
 	{
 		"code": "83320-13200",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA COROLLA 2003-2008",
 		"brand": "TOYOTA",
 		"cost": 21.0,
@@ -3761,7 +3761,7 @@
 	},
 	{
 		"code": "83320-52021",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA YARIS SOL 00-05",
 		"brand": "TOYOTA",
 		"cost": 14.0,
@@ -3771,7 +3771,7 @@
 	},
 	{
 		"code": "83320-52181",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA YARIS 2005 EN ADELANTE",
 		"brand": "TOYOTA",
 		"cost": 21.0,
@@ -3781,7 +3781,7 @@
 	},
 	{
 		"code": "83320-60620",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA 4RUNNER/PRADO 00-02 5VZE",
 		"brand": "TOYOTA",
 		"cost": 22.5,
@@ -3791,7 +3791,7 @@
 	},
 	{
 		"code": "83320-60440",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA 4RUNNER 03-08",
 		"brand": "TOYOTA",
 		"cost": 21.0,
@@ -3801,7 +3801,7 @@
 	},
 	{
 		"code": "83320-04040",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA TACOMA / SEUQUOIA",
 		"brand": "TOYOTA",
 		"cost": 32.0,
@@ -3811,7 +3811,7 @@
 	},
 	{
 		"code": "83320-28520",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA DE PREVIA 2AZ",
 		"brand": "TOYOTA",
 		"cost": 32.0,
@@ -3821,7 +3821,7 @@
 	},
 	{
 		"code": "83320-26420",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA HIACE 05-11",
 		"brand": "TOYOTA",
 		"cost": 21.0,
@@ -3831,7 +3831,7 @@
 	},
 	{
 		"code": "83320-0k020",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA HILUX / KAVAK / FORTUNER",
 		"brand": "TOYOTA",
 		"cost": 21.0,
@@ -3841,7 +3841,7 @@
 	},
 	{
 		"code": "83320-0K010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA HILUX / KAVAK / FORTUNER",
 		"brand": "TOYOTA",
 		"cost": 21.0,
@@ -3851,7 +3851,7 @@
 	},
 	{
 		"code": "77501-87401",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FLOTANTE DE BOMBA DE GASOLINA TERIOS 02-07",
 		"brand": "TOYOTA",
 		"cost": 20.0,
@@ -3861,7 +3861,7 @@
 	},
 	{
 		"code": "23280-22010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "REGULADOR PRESION GASOL COROLLA 03/08",
 		"brand": "TOYOTA",
 		"cost": 19.0,
@@ -3871,7 +3871,7 @@
 	},
 	{
 		"code": "77169-21050",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ORRING CONJUNTO DE GASOLINA YARIS TODOS",
 		"brand": "BERACA",
 		"cost": 3.0,
@@ -3881,7 +3881,7 @@
 	},
 	{
 		"code": "77169-12010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ORRING CONJUNTO DE GASOLINA COROLLA 03-08",
 		"brand": "BERACA",
 		"cost": 5.0,
@@ -3891,7 +3891,7 @@
 	},
 	{
 		"code": "77169-12240",
-		"quantity": 0,
+		"quantity": 5,
 		"description": "ORRING CONJUNTO DE GASOLINA COROLLA 09-17",
 		"brand": "BERACA",
 		"cost": 3.0,
@@ -3901,7 +3901,7 @@
 	},
 	{
 		"code": "77169-87403",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ORRING CONJUNTO DE GASOLINA TERIOS TODAS",
 		"brand": "BERACA",
 		"cost": 2.5,
@@ -3911,7 +3911,7 @@
 	},
 	{
 		"code": "77169-30050",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ORRING CONJUNTO DE GASOLINA 4RUNNER",
 		"brand": "BERACA",
 		"cost": 3.0,
@@ -3921,7 +3921,7 @@
 	},
 	{
 		"code": "77169-0k010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ORRING CONJUNTO DE GASOLINA HILUX KAVAK / FORTUNER / HILUX 2,7",
 		"brand": "BERACA",
 		"cost": 3.0,
@@ -3931,7 +3931,7 @@
 	},
 	{
 		"code": "77024-52122",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TAPA CONJUNTO DE GASOLINA YARIS 06-09",
 		"brand": "TOYOTA",
 		"cost": 52.0,
@@ -3941,7 +3941,7 @@
 	},
 	{
 		"code": "77024-12010 BRC",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TAPA CONJUNTO DE GASOLINA COROLLA NEW SENSATION 2003-2008",
 		"brand": "BERACA",
 		"cost": 24.5,
@@ -3951,7 +3951,7 @@
 	},
 	{
 		"code": "23210-87403",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TAPA SUPERIOR CONJUNTO GASOLINA TERIOS 02-07",
 		"brand": "BERACA",
 		"cost": 21.0,
@@ -3961,7 +3961,7 @@
 	},
 	{
 		"code": "77785-04020",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "CABLE CONECTOR INTERNO BOMBA PILA GAS. TACOMA",
 		"brand": "TOYOTA",
 		"cost": 4.0,
@@ -3971,7 +3971,7 @@
 	},
 	{
 		"code": "77785-52060",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "CABLE CONECTOR INTERNO BOMBA PILA GAS. HILUX / COROLLA / YARIS",
 		"brand": "TOYOTA JAPAN",
 		"cost": 1.0,
@@ -3981,7 +3981,7 @@
 	},
 	{
 		"code": "90980-11077",
-		"quantity": 0,
+		"quantity": 5,
 		"description": "CONECTOR SUPERIOR BOMBA DE GASOLINA COROLLA/HILUX 1GR/YARIS",
 		"brand": "UNIVERSAL",
 		"cost": 6.0,
@@ -3991,7 +3991,7 @@
 	},
 	{
 		"code": "77021-04090",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "CONECTOR SUPERIOR BOMBA DE GASOLINA TACOMA / TERIOS",
 		"brand": "TOYOTA",
 		"cost": 5.0,
@@ -4001,7 +4001,7 @@
 	},
 	{
 		"code": "90980-11078",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "CONECTOR DE GASOLINA COROLLA F.I. 94-02 / PRADO / 4RUNNER 00-02",
 		"brand": "GENERICO",
 		"cost": 17.0,
@@ -4021,7 +4021,7 @@
 	},
 	{
 		"code": "23300-21010",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "FILTRO DE GASOLINA COROLLA/CAMRY/PRV 01/04",
 		"brand": "TOYOTA",
 		"cost": 9.0,
@@ -4031,7 +4031,7 @@
 	},
 	{
 		"code": "23300-21030",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "FILTRO DE GASOLINA DE LA PILA YARIS 06-10/COROLLA 09-14 /HIACE /PREVIA",
 		"brand": "TOYOTA",
 		"cost": 11.04,
@@ -4041,7 +4041,7 @@
 	},
 	{
 		"code": "23300-23040",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "FILTRO DE GASOLINA YARIS 01-05",
 		"brand": "TOYOTA",
 		"cost": 8.0,
@@ -4051,7 +4051,7 @@
 	},
 	{
 		"code": "23300-50120",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "FILTRO DE GASOLINA DEL CONJUNTO 4RUNNER 03-08",
 		"brand": "TOYOTA",
 		"cost": 15.0,
@@ -4061,7 +4061,7 @@
 	},
 	{
 		"code": "23300-31100",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE GASOLINA FJ/4RUNNER/FORTUNER",
 		"brand": "TOYOTA",
 		"cost": 8.0,
@@ -4071,7 +4071,7 @@
 	},
 	{
 		"code": "23300-31120",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "FILTRO DE GASOLINA DE FORTUNER/HILUX KAVAK",
 		"brand": "TOYOTA",
 		"cost": 10.0,
@@ -4081,7 +4081,7 @@
 	},
 	{
 		"code": "23300-31120 MF",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE GASOLINA DE FORTUNER/HILUX KAVAK",
 		"brand": "MILLARD",
 		"cost": 10.0,
@@ -4091,7 +4091,7 @@
 	},
 	{
 		"code": "23300-38010",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "FILTRO GASOLINA TIPO(T) , MOTOR 2F Y 3F",
 		"brand": "TOYOTA",
 		"cost": 1.5,
@@ -4101,7 +4101,7 @@
 	},
 	{
 		"code": "23390-0L041",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "FILTRO DE GASOIL DIESEL HILUX",
 		"brand": "TOYOTA",
 		"cost": 5.0,
@@ -4111,7 +4111,7 @@
 	},
 	{
 		"code": "23390-0L070",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "FILTRO DE GASOIL DIESEL FORTUNER DUBAI",
 		"brand": "TOYOTA",
 		"cost": 7.5,
@@ -4121,7 +4121,7 @@
 	},
 	{
 		"code": "23300-62030",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE GASOLINA 4RUNNER 00-02 PRADO 99-02",
 		"brand": "TOYOTA",
 		"cost": 12.0,
@@ -4131,7 +4131,7 @@
 	},
 	{
 		"code": "23300-34100",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "FILTRO DE GASOLINA COROLLA 90-97/ STARLET",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -4151,7 +4151,7 @@
 	},
 	{
 		"code": "23300-19145",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE GASOLINA COROLLA 1,6/ 1,8 98-02",
 		"brand": "TOYOTA",
 		"cost": 7.0,
@@ -4161,7 +4161,7 @@
 	},
 	{
 		"code": "23300-19145 MF",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE GASOLINA COROLLA 1.8 98-02",
 		"brand": "MILLARD",
 		"cost": 8.5,
@@ -4171,7 +4171,7 @@
 	},
 	{
 		"code": "23300-66030 VF",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE GASOLINA BURBUJA/AUTANA/MACHITO/4,5 CARBURADO PUNT Y PUNT",
 		"brand": "VEGA",
 		"cost": 8.0,
@@ -4181,7 +4181,7 @@
 	},
 	{
 		"code": "23300-66020",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE GASOLINA MACHITO 4,5 CARBURADO",
 		"brand": "TOYOTA",
 		"cost": 13.0,
@@ -4191,7 +4191,7 @@
 	},
 	{
 		"code": "23300-66020 VF",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE GASOLINA MACHITO 4,5 CARBURADO",
 		"brand": "VEGA",
 		"cost": 15.0,
@@ -4201,7 +4201,7 @@
 	},
 	{
 		"code": "23300-61070 VF",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE GASOLINA SAMURAI / MACHITO/ 2F/3F",
 		"brand": "VEGA",
 		"cost": 5.0,
@@ -4211,7 +4211,7 @@
 	},
 	{
 		"code": "23300-66050",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE GASOLINA 4.5 1FZFE 1999-2009 MACHITO INY",
 		"brand": "TOYOTA",
 		"cost": 10.0,
@@ -4241,7 +4241,7 @@
 	},
 	{
 		"code": "23300-79525",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE GASOLINA 3RZFE/MERU 1995-2003",
 		"brand": "TOYOTA",
 		"cost": 7.0,
@@ -4251,7 +4251,7 @@
 	},
 	{
 		"code": "23300-79525 VF",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE GASOLINA 3RZFE/MERU 1995-2003",
 		"brand": "VEGA",
 		"cost": 10.0,
@@ -4261,7 +4261,7 @@
 	},
 	{
 		"code": "23390-51070",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE GASOIL DIESEL LAND CRUISER HARDT DIESEL",
 		"brand": "TOYOTA",
 		"cost": 5.5,
@@ -4271,7 +4271,7 @@
 	},
 	{
 		"code": "77144-52040",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "TAPA ROSCA BOMBA DE COMBUSTIBLE YARIS BELTA 05-09",
 		"brand": "TOYOTA",
 		"cost": 10.0,
@@ -4281,7 +4281,7 @@
 	},
 	{
 		"code": "77144-35010",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "TAPA ROSCA BOMBA COMBUSTIBLE FJ CRUISER / 4RUNNER 03-08",
 		"brand": "TOYOTA",
 		"cost": 10.0,
@@ -4291,7 +4291,7 @@
 	},
 	{
 		"code": "77144-0K010 G",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "TAPA ROSCA BOMBA COMBUSTIBLE FORTUNER / HILUX KAVAK",
 		"brand": "TOYOTA",
 		"cost": 11.5,
@@ -4301,7 +4301,7 @@
 	},
 	{
 		"code": "23217-0T200",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE PILA DE GASOLINA COROLLA 2015-2020",
 		"brand": "TOYOTA",
 		"cost": 5.0,
@@ -4311,7 +4311,7 @@
 	},
 	{
 		"code": "23217-16490",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "FILTRO DE PILA DE GASOLINA AUTANA / MACHITO 4,5",
 		"brand": "TOYOTA",
 		"cost": 2.0,
@@ -4321,7 +4321,7 @@
 	},
 	{
 		"code": "23217-50100",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "FILTRO DE PILA DE GASOLINA 4 RUNNER 03-09",
 		"brand": "TOYOTA",
 		"cost": 1.5,
@@ -4331,7 +4331,7 @@
 	},
 	{
 		"code": "23217-74021",
-		"quantity": 0,
+		"quantity": 6,
 		"description": "FILTRO DE PILA DE GASOLINA COROLLA 95-06 / MERU / TERIOS / 4RUNNER 00-02",
 		"brand": "TOYOTA",
 		"cost": 1.5,
@@ -4341,7 +4341,7 @@
 	},
 	{
 		"code": "77023-14030",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "FILTRO DE GASOLINA SUB-CONJUNTO COROLLA 1,6 89-95 CARBURADO",
 		"brand": "TOYOTA",
 		"cost": 1.6,
@@ -4351,7 +4351,7 @@
 	},
 	{
 		"code": "23217-23010",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "FILTRO DE PILA DE GASOLINA YARIS 00-05 / COROLLA 03-08",
 		"brand": "TOYOTA",
 		"cost": 1.5,
@@ -4361,7 +4361,7 @@
 	},
 	{
 		"code": "17801-15070",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "FILTRO DE AIRE COROLLA F.I 1,6/1,8 98-02",
 		"brand": "CHAMPION",
 		"cost": 7.5,
@@ -4371,7 +4371,7 @@
 	},
 	{
 		"code": "17801-11100",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE AIRE STARLET 89-95",
 		"brand": "HIBARI",
 		"cost": 7.0,
@@ -4381,7 +4381,7 @@
 	},
 	{
 		"code": "17801-46060",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE AIRE 4RUNNER 00-02 5VZFE",
 		"brand": "TOYOTA",
 		"cost": 12.0,
@@ -4391,7 +4391,7 @@
 	},
 	{
 		"code": "17801-31090",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE AIRE FJ/FORTUNER/4RUNNER/HILUX KAVAK",
 		"brand": "TOYOTA",
 		"cost": 10.5,
@@ -4401,7 +4401,7 @@
 	},
 	{
 		"code": "17801-31090",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE AIRE FJ/FORTUNER/4RUNNER/HILUX KAVAK",
 		"brand": "A1 FILTERS",
 		"cost": 6.0,
@@ -4411,7 +4411,7 @@
 	},
 	{
 		"code": "17801-22020",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO DE AIRE COROLLA 03-08 NEW SENSATION",
 		"brand": "JHF",
 		"cost": 12.0,
@@ -4421,7 +4421,7 @@
 	},
 	{
 		"code": "17801-22020",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "FILTRO DE AIRE COROLLA 03-08 NEW SENSATION",
 		"brand": "VEGA",
 		"cost": 10.0,
@@ -4431,7 +4431,7 @@
 	},
 	{
 		"code": "17801-15060",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "FILTRO DE AIRE COROLLA 90-95 / ARAY A/ SKY / BABY CAMRY",
 		"brand": "TOYOTA",
 		"cost": 6.0,
@@ -4451,7 +4451,7 @@
 	},
 	{
 		"code": "17801-87402",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE AIRE TERIOS 02-07",
 		"brand": "CHAMPION",
 		"cost": 5.0,
@@ -4461,7 +4461,7 @@
 	},
 	{
 		"code": "17801-B1010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE AIRE TERIOS BE-GO 05-11",
 		"brand": "VEGA",
 		"cost": 8.0,
@@ -4471,7 +4471,7 @@
 	},
 	{
 		"code": "17801-0C010",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "FILTRO DE AIRE HILUX 2,7 2TRFE 05-11/HIACE/AUTANA/BURBUJA/MACHITO 4,5",
 		"brand": "VEGA",
 		"cost": 13.5,
@@ -4481,7 +4481,7 @@
 	},
 	{
 		"code": "17801-58010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE AIRE MERU/HILUX 2,7/DYNA/PRADO",
 		"brand": "CHAMPION",
 		"cost": 10.0,
@@ -4491,7 +4491,7 @@
 	},
 	{
 		"code": "17801-61030",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE AIRE SAMURAY Y MACHITO 2F- 3F / MACHITO 4,5/ AUTANA/ BURBUJA",
 		"brand": "VEGA",
 		"cost": 13.0,
@@ -4501,7 +4501,7 @@
 	},
 	{
 		"code": "87139-52020",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO ANTI POLEN DE CABINA FORTUNER / HILUX K. / YARIS 05 / COROLLA 15",
 		"brand": "TOMITA",
 		"cost": 8.0,
@@ -4511,7 +4511,7 @@
 	},
 	{
 		"code": "87139-YZZ07",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "FILTRO ANTI POLEN DE CABINA COROLLA NEW SENSATION 03-07",
 		"brand": "MILLARD",
 		"cost": 5.0,
@@ -4521,7 +4521,7 @@
 	},
 	{
 		"code": "17801-62010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE AIRE HILUX 02-05/PRADO/4RUNNER",
 		"brand": "VEGA",
 		"cost": 11.98,
@@ -4531,7 +4531,7 @@
 	},
 	{
 		"code": "17801-20040",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE AIRE CAMRY 3,0 IMZFE",
 		"brand": "VEGA",
 		"cost": 5.5,
@@ -4541,7 +4541,7 @@
 	},
 	{
 		"code": "17801-21050",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "FILTRO DE AIRE YARIS 06- 08 / COROLLA 09-14",
 		"brand": "TOYOTA",
 		"cost": 5.0,
@@ -4551,7 +4551,7 @@
 	},
 	{
 		"code": "17801-21030",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "FILTRO DE AIRE YARIS 00-05",
 		"brand": "VEGA",
 		"cost": 5.0,
@@ -4661,7 +4661,7 @@
 	},
 	{
 		"code": "04445-35190",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE CAJETIN 4RUNNER 03/08",
 		"brand": "TOYOTA",
 		"cost": 32.95,
@@ -4671,7 +4671,7 @@
 	},
 	{
 		"code": "04445-66050",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT DE CAJETIN LAND CRUISER AUTANA BURBUJA",
 		"brand": "TOYOTA",
 		"cost": 34.7,
@@ -4681,7 +4681,7 @@
 	},
 	{
 		"code": "45517-35010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "GOMA CAJETIN DE DIRECCION PRADO/MERU7RUNNER",
 		"brand": "TOYOTA",
 		"cost": 6.5,
@@ -4721,7 +4721,7 @@
 	},
 	{
 		"code": "04446-32011",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT BOMBA DIRECCION COROLLA 93-02",
 		"brand": "TOYOTA",
 		"cost": 20.0,
@@ -4811,7 +4811,7 @@
 	},
 	{
 		"code": "47570-16040",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CILINDRO DE FRENO DER. COROLLA 94-2002",
 		"brand": "TOYOTA",
 		"cost": 15.0,
@@ -4821,7 +4821,7 @@
 	},
 	{
 		"code": "47201-60120",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA DE FRENO DE SAMURAI Y MACHITO 76-92",
 		"brand": "TOYOTA",
 		"cost": 35.0,
@@ -4841,7 +4841,7 @@
 	},
 	{
 		"code": "47201-52330",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA FRENO YARIS BELTA Y SPORT 06-10",
 		"brand": "TOYOTA",
 		"cost": 64.5,
@@ -4851,7 +4851,7 @@
 	},
 	{
 		"code": "47201-12830",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA DE FRENO COROLLA 93-02 (TRES HUECOS)",
 		"brand": "TOYOTA",
 		"cost": 41.0,
@@ -4871,7 +4871,7 @@
 	},
 	{
 		"code": "47201-60A00",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA FRENO LAND CUISER 07-14 MACHTO 4,0",
 		"brand": "TOYOTA",
 		"cost": 45.84,
@@ -4881,7 +4881,7 @@
 	},
 	{
 		"code": "47201-0K040",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBA DE FRENO FORTUNER / HILUX 2,7 / FJ / TACOMA / HILUX KAVAK",
 		"brand": "AISIN JAPAN",
 		"cost": 135.0,
@@ -4951,7 +4951,7 @@
 	},
 	{
 		"code": "04476-60050",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "KIT CILINDRO DE FRENO MACHITO / SAMURAY",
 		"brand": "TOYOTA",
 		"cost": 4.0,
@@ -5051,7 +5051,7 @@
 	},
 	{
 		"code": "48401-60020",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "SOPORTE DE BALLESTA SAMURAY MACHITO MOTOR 3F",
 		"brand": "TOYOTA",
 		"cost": 35.0,
@@ -5061,7 +5061,7 @@
 	},
 	{
 		"code": "48512-60031",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BASE AMORT. SAMURAY MACHITO MOTOR 3F",
 		"brand": "TOYOTA",
 		"cost": 25.0,
@@ -5091,7 +5091,7 @@
 	},
 	{
 		"code": "45503-19215",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ROTULA COROLLA 84-02 BABY CAMRY",
 		"brand": "TOYOTA",
 		"cost": 12.0,
@@ -5121,7 +5121,7 @@
 	},
 	{
 		"code": "45503-09321",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "ROTULA HILUX 2.7/KAVAK/FORTUNER",
 		"brand": "TOYOTA",
 		"cost": 14.0,
@@ -5131,7 +5131,7 @@
 	},
 	{
 		"code": "45503-09321",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ROTULA HILUX 2.7/KAVAK/FORTUNER",
 		"brand": "555 JAPON",
 		"cost": 26.0,
@@ -5151,7 +5151,7 @@
 	},
 	{
 		"code": "45503-19195",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ROTULA D/DIRECCION STARLET",
 		"brand": "TOYOTA",
 		"cost": 9.74,
@@ -5181,7 +5181,7 @@
 	},
 	{
 		"code": "45503-39075",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ROTULA 4RUNNER/PRADO/MERU 99-02",
 		"brand": "TOYOTA",
 		"cost": 11.4,
@@ -5201,7 +5201,7 @@
 	},
 	{
 		"code": "45503-39265",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ROTULA DE 4RUNNER 03-08",
 		"brand": "TOYOTA",
 		"cost": 10.55,
@@ -5241,7 +5241,7 @@
 	},
 	{
 		"code": "45503-39135",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "ROTULA DE DIRECCION CAMRY 93-01",
 		"brand": "TOYOTA",
 		"cost": 10.5,
@@ -5261,7 +5261,7 @@
 	},
 	{
 		"code": "45503-52070 MTR",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "ROTULA IZQ/DER YARIS NCP93 06-08",
 		"brand": "MOTRO",
 		"cost": 8.5,
@@ -5271,7 +5271,7 @@
 	},
 	{
 		"code": "45503-59045",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "ROTULA IZQ/DER YARIS NCP90 2000-2005",
 		"brand": "TOYOTA",
 		"cost": 10.0,
@@ -5401,7 +5401,7 @@
 	},
 	{
 		"code": "43310-09030",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "MU\u00d1ON SUP HILUX 2.7 KAVAK/FORTUNER",
 		"brand": "TOYOTA",
 		"cost": 14.0,
@@ -5411,7 +5411,7 @@
 	},
 	{
 		"code": "43310-09030 MTR",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "MU\u00d1ON SUP HILUX 2.7 KAVAK/FORTUNER",
 		"brand": "MOTRO",
 		"cost": 8.64,
@@ -5431,7 +5431,7 @@
 	},
 	{
 		"code": "43310-39016",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MU\u00d1ON SUPERIOR 4RUNNER 0-02, PRADO, MERU",
 		"brand": "TOYOTA",
 		"cost": 15.0,
@@ -5441,7 +5441,7 @@
 	},
 	{
 		"code": "43310-39016 MTR",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "MU\u00d1ON SUPERIOR 4RUNNER 0-02, PRADO, MERU",
 		"brand": "MOTRO",
 		"cost": 10.5,
@@ -5451,7 +5451,7 @@
 	},
 	{
 		"code": "43310-60020",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "MU\u00d1ON SUPERIOR RUNNER / FJ / TUNDRA / SEQUOIA 2003-2008",
 		"brand": "TOYOTA",
 		"cost": 13.0,
@@ -5461,7 +5461,7 @@
 	},
 	{
 		"code": "43310-60050",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "MU\u00d1ON SUPERIOR RUNNER / FJ / TUNDRA / SEQUOIA 2003-2008",
 		"brand": "TOYOTA",
 		"cost": 15.0,
@@ -5471,7 +5471,7 @@
 	},
 	{
 		"code": "43330-09510",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MU\u00d1ON INF. HILUX 2.7 / KAVAK / FORTUNER",
 		"brand": "TOYOTA",
 		"cost": 12.0,
@@ -5501,7 +5501,7 @@
 	},
 	{
 		"code": "43330-19115 MTR",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "MU\u00d1ON INF COROLLA 1994/2008",
 		"brand": "MOTRO",
 		"cost": 10.7,
@@ -5561,7 +5561,7 @@
 	},
 	{
 		"code": "43330-39585",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MU\u00d1ON INF DER 4RUNNER/PRADO 01-02/MERU",
 		"brand": "TOYOTA",
 		"cost": 34.0,
@@ -5571,7 +5571,7 @@
 	},
 	{
 		"code": "43330-39585 555",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MU\u00d1ON INF DER 4RUNNER/PRADO 01-02/MERU",
 		"brand": "555 JAPON",
 		"cost": 54.0,
@@ -5621,7 +5621,7 @@
 	},
 	{
 		"code": "43330-59095",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "MU\u00d1ON DE YARIS 2000-2005",
 		"brand": "TOYOTA",
 		"cost": 10.6,
@@ -5661,7 +5661,7 @@
 	},
 	{
 		"code": "43340-39465",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MU\u00d1ON INF IZQ4RUNNER/PRADO 01-03/MERU",
 		"brand": "TOYOTA",
 		"cost": 34.0,
@@ -5931,7 +5931,7 @@
 	},
 	{
 		"code": "45046-09281",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TERMINAL IZQ/DER HILUX KAVAC FORTUNER",
 		"brand": "TOYOTA",
 		"cost": 14.0,
@@ -5941,7 +5941,7 @@
 	},
 	{
 		"code": "45046-09281",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TERMINAL IZQ/DER HILUX KAVAC FORTUNER",
 		"brand": "555 JAPAN",
 		"cost": 24.0,
@@ -6001,7 +6001,7 @@
 	},
 	{
 		"code": "45046-29305 MTR",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TERMINAL DE DIRECCION COROLLA 88-02",
 		"brand": "MOTRO",
 		"cost": 6.6,
@@ -6211,7 +6211,7 @@
 	},
 	{
 		"code": "45047-02030 MTR",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TERMINAL DIRECCION IZQ. COROLLA 03-08",
 		"brand": "MOTRO",
 		"cost": 9.7,
@@ -6411,7 +6411,7 @@
 	},
 	{
 		"code": "45046-59026",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TERMINAL DER. YARIS NCP10 00/05",
 		"brand": "555 JAPON",
 		"cost": 19.0,
@@ -6421,7 +6421,7 @@
 	},
 	{
 		"code": "45047-59026",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "TERMINAL IZQ. YARIS NCP10 00/05",
 		"brand": "555 JAPON",
 		"cost": 18.0,
@@ -6521,7 +6521,7 @@
 	},
 	{
 		"code": "48702-35070",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "BUJE BRAZO LARGO TRASERO MERU/PRAD/4RUNNER 5VZE",
 		"brand": "TOYOTA",
 		"cost": 4.5,
@@ -6541,7 +6541,7 @@
 	},
 	{
 		"code": "48810-0K010 MTR",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BRAZO ESTABILIZADOR/IZQ. HILUX/4RUNNER",
 		"brand": "MOTRO",
 		"cost": 6.94,
@@ -6581,7 +6581,7 @@
 	},
 	{
 		"code": "48820-0K030 MTR",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BRAZO ESTABILIZADOR DER HILUX/RUNN/KAV",
 		"brand": "MOTRO",
 		"cost": 6.8,
@@ -6631,7 +6631,7 @@
 	},
 	{
 		"code": "48820-47010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "BRAZO ESTABILIZADOR DE COROLLA 03-14",
 		"brand": "555 JAPON",
 		"cost": 21.0,
@@ -6691,7 +6691,7 @@
 	},
 	{
 		"code": "48820-AD010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "BRAZO ESTABILIZADOR DE PRADO/MERU/RUNN",
 		"brand": "TOYOTA",
 		"cost": 9.5,
@@ -6751,7 +6751,7 @@
 	},
 	{
 		"code": "48069-0K050",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MESETA INF. IZQUIERDA HILUX FORTUNER 2.7",
 		"brand": "TOYOTA",
 		"cost": 120.0,
@@ -7051,7 +7051,7 @@
 	},
 	{
 		"code": "48655-87401 TZK",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BUJE GRANDE DE MESETA TERIOS 02-07",
 		"brand": "TEZUKA",
 		"cost": 9.5,
@@ -7061,7 +7061,7 @@
 	},
 	{
 		"code": "48654-87402",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "BUJE PEQUE\u00d1O DE MESETA TERIOS 02-07",
 		"brand": "TENACITY",
 		"cost": 5.5,
@@ -7071,7 +7071,7 @@
 	},
 	{
 		"code": "48655-B4011",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "BUJE GRANDE DE MESETA TERIOS BE-GO 08-12",
 		"brand": "TOYOTA",
 		"cost": 6.5,
@@ -7081,7 +7081,7 @@
 	},
 	{
 		"code": "48654-B4010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "BUJE PEQUE\u00d1O DE MESETA TERIOS BE-GO 08-12",
 		"brand": "TOYOTA",
 		"cost": 5.5,
@@ -7091,7 +7091,7 @@
 	},
 	{
 		"code": "48654-B4010",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "BUJE PEQUE\u00d1O DE MESETA TERIOS BE-GO 08-12",
 		"brand": "TENACITY",
 		"cost": 8.0,
@@ -7101,7 +7101,7 @@
 	},
 	{
 		"code": "48654-0D080",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "BUJE PEQUE\u00d1O DE MESETA YARIS TODOS",
 		"brand": "TOYOTA",
 		"cost": 4.0,
@@ -7121,7 +7121,7 @@
 	},
 	{
 		"code": "48654-0K040 MTR",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BUJE INF. FRONTAL FORTUNER/HILUX PEQUE\u00d1O",
 		"brand": "MOTRO",
 		"cost": 8.0,
@@ -7131,7 +7131,7 @@
 	},
 	{
 		"code": "48655-0K040 MTR",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BUJE INF. FRONTAL FORTUNER/HILUX/ 4RUNNER GRANDE",
 		"brand": "MOTRO",
 		"cost": 11.5,
@@ -7141,7 +7141,7 @@
 	},
 	{
 		"code": "48654-0K040",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "BUJE INF. FRONTAL FORTUNER/HILUX PEQUE\u00d1O",
 		"brand": "TOYOTA",
 		"cost": 10.0,
@@ -7151,7 +7151,7 @@
 	},
 	{
 		"code": "48655-0K040",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "BUJE INF. FRONTAL FORTUNER/HILUX/4RUNNER GRANDE",
 		"brand": "TOYOTA",
 		"cost": 10.0,
@@ -7161,7 +7161,7 @@
 	},
 	{
 		"code": "48632-60020",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "BUJE BRAZO SUP. FORT/HILUX 2.7 RUNNER",
 		"brand": "TOYOTA",
 		"cost": 7.55,
@@ -7171,7 +7171,7 @@
 	},
 	{
 		"code": "48655-60030",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "BUJE INF. GRANDE 4RUNNER/FJ/HILUX",
 		"brand": "TOYOTA",
 		"cost": 9.76,
@@ -7181,7 +7181,7 @@
 	},
 	{
 		"code": "48654-12120",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "BUJE DE MESETA PEQUE\u00d1O COROLLA 1990 / 2014",
 		"brand": "TOYOTA",
 		"cost": 4.0,
@@ -7201,7 +7201,7 @@
 	},
 	{
 		"code": "48654-60030",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "BUJE INFERIOR PEQUE\u00d1O 4RUNNER/JF 03-08",
 		"brand": "TOYOTA",
 		"cost": 7.62,
@@ -7231,7 +7231,7 @@
 	},
 	{
 		"code": "48655-0D080",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "BUJE GRANDE DE MESETA YARIS",
 		"brand": "TOYOTA",
 		"cost": 7.0,
@@ -7251,7 +7251,7 @@
 	},
 	{
 		"code": "48655-12170",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "BUJE DE MESETA GRANDE COROLLA 2003/2014",
 		"brand": "TOYOTA",
 		"cost": 5.0,
@@ -7271,7 +7271,7 @@
 	},
 	{
 		"code": "48655-12120 TZK",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "BUJE DE MESETA GRANDE COROLLA 96-02 TROMPITO",
 		"brand": "TESUKA",
 		"cost": 6.5,
@@ -7891,7 +7891,7 @@
 	},
 	{
 		"code": "12361-61030",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BASE MOTOR FRONT. LAND CRUISER 3F 85-93",
 		"brand": "TOYOTA JAPAN",
 		"cost": 26.28,
@@ -7941,7 +7941,7 @@
 	},
 	{
 		"code": "12361-87403",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "BASE MOTOR DERECHA TERIOS 02-07",
 		"brand": "TOYOTA",
 		"cost": 18.0,
@@ -7951,7 +7951,7 @@
 	},
 	{
 		"code": "12361-87403",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BASE MOTOR DERECHA TERIOS 02-07",
 		"brand": "TAIWAN",
 		"cost": 12.0,
@@ -7961,7 +7961,7 @@
 	},
 	{
 		"code": "12361-B4010",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BASE DE MOTOR DERECHA DE TERIOS BE-GO",
 		"brand": "TEZUKA",
 		"cost": 35.0,
@@ -8011,7 +8011,7 @@
 	},
 	{
 		"code": "12362-87403",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BASE MOTOR IZQ. TERIOS 02-07",
 		"brand": "TAIWAN",
 		"cost": 9.0,
@@ -8271,7 +8271,7 @@
 	},
 	{
 		"code": "12371-61030",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BASE CAJA LAND CRUISER 3F 86-92",
 		"brand": "TOYOTA JAPAN",
 		"cost": 40.0,
@@ -8561,7 +8561,7 @@
 	},
 	{
 		"code": "90048-52130",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOBINA DE ENCENDIDO TERIOS",
 		"brand": "TOYOTA",
 		"cost": 31.0,
@@ -8571,7 +8571,7 @@
 	},
 	{
 		"code": "19070-B1011",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOBINA DE ENCENDIDO TERIOS BE-GO 2008 EN ADELANTE",
 		"brand": "DENSO",
 		"cost": 35.0,
@@ -8581,7 +8581,7 @@
 	},
 	{
 		"code": "19070-3SZ",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CHUPA DE BOBINA TERIOS BE-GO 2008-2013 (PAQ. 4 UNIDADES)",
 		"brand": "TOYOTA",
 		"cost": 6.5,
@@ -8601,7 +8601,7 @@
 	},
 	{
 		"code": "90919-02239 A",
-		"quantity": 0,
+		"quantity": 12,
 		"description": "CHUPAS PARA BOBINA NEW SESATION / YARIS / FORTUNER / HILUX / MERU C/U",
 		"brand": "YUKKAZO",
 		"cost": 3.3,
@@ -8611,7 +8611,7 @@
 	},
 	{
 		"code": "90919-02239 A",
-		"quantity": 0,
+		"quantity": 5,
 		"description": "CHUPAS PARA BOBINA COROLLA SENSACION / YARIS / FORTUNER / HILUX / MERU PAQ.4",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -8621,7 +8621,7 @@
 	},
 	{
 		"code": "90919-02239",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOBINA DE ENCENDIDO NEW SESATION 03/014",
 		"brand": "TOYOTA",
 		"cost": 35.7,
@@ -8641,7 +8641,7 @@
 	},
 	{
 		"code": "90919-02164",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOBINA ENCENDIDO STARLET/COROLLA 92-02",
 		"brand": "TOYOTA",
 		"cost": 21.42,
@@ -8651,7 +8651,7 @@
 	},
 	{
 		"code": "90919-02248",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOBINA DE ENCENDIDO /FORT/4RUN/KAV/2.7/4.0",
 		"brand": "TOYOTA",
 		"cost": 33.4,
@@ -8661,7 +8661,7 @@
 	},
 	{
 		"code": "90919-02231",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOBINA DE ENCENDIDO N\u00ba 1 Y 2 MACHITO 4,5 2002 EN ADELANTE",
 		"brand": "TOYOTA",
 		"cost": 43.2,
@@ -8671,7 +8671,7 @@
 	},
 	{
 		"code": "90919-02232",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOBINA DE ENCENDIDO N\u00ba 3 Y 4 MACHITO 4,5 2002 EN ADELANTE",
 		"brand": "TOYOTA",
 		"cost": 43.2,
@@ -8681,7 +8681,7 @@
 	},
 	{
 		"code": "90919-02233",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOBINA DE ENCENDIDO N\u00ba 5 Y 6 MACHITO 4,5 2002 EN ADELANTE",
 		"brand": "TOYOTA",
 		"cost": 43.2,
@@ -8701,7 +8701,7 @@
 	},
 	{
 		"code": "90919-02258",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOBINA DE ENCENDIDO COROLLA IRANI 2009-2016",
 		"brand": "TOYOTA",
 		"cost": 33.5,
@@ -8751,7 +8751,7 @@
 	},
 	{
 		"code": "90919-02240",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOBINA YARIS SPORT/BELTA 06/09 NCP90",
 		"brand": "TOYOTA",
 		"cost": 35.7,
@@ -8761,7 +8761,7 @@
 	},
 	{
 		"code": "12204-22051",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "VALVULA PCV COROLLA NEW SENSACION",
 		"brand": "TOYOTA",
 		"cost": 6.0,
@@ -8771,7 +8771,7 @@
 	},
 	{
 		"code": "12204-22051",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "VALVULA PCV COROLLA NEW SENSACION",
 		"brand": "AISAN JAPAN",
 		"cost": 14.0,
@@ -8781,7 +8781,7 @@
 	},
 	{
 		"code": "12204-37040",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "VALVULA PCV COROLLA 2015 2ZR",
 		"brand": "AISAN JAPAN",
 		"cost": 16.0,
@@ -8791,7 +8791,7 @@
 	},
 	{
 		"code": "12204-31030",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "VALVULA PCV 4RUNNER / HILUX KAVAK / FJ / FORTUNER / CAMRY 2GR / RAV4",
 		"brand": "TOYOTA",
 		"cost": 7.0,
@@ -8801,7 +8801,7 @@
 	},
 	{
 		"code": "12204-31030",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "VALVULA PCV 4RUNNER / HILUX KAVAK / FJ / FORTUNER / CAMRY 2GR / RAV4",
 		"brand": "AISAN JAPAN",
 		"cost": 13.0,
@@ -8811,7 +8811,7 @@
 	},
 	{
 		"code": "12204-21011",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "VALVULA PCV YARIS SOL / SPORT / BELTA",
 		"brand": "AISAN JAPAN",
 		"cost": 8.0,
@@ -8821,7 +8821,7 @@
 	},
 	{
 		"code": "12204-15050",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "VALVULA PCV COROLLA 90-02 / TERIOS TODAS",
 		"brand": "TOYOTA",
 		"cost": 7.0,
@@ -8831,7 +8831,7 @@
 	},
 	{
 		"code": "12204-15050",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "VALVULA PCV COROLLA 90-02 / TERIOS TODAS",
 		"brand": "AISAN JAPAN",
 		"cost": 12.0,
@@ -8851,7 +8851,7 @@
 	},
 	{
 		"code": "12204-62010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "VALVULA PCV CAMRY/ 4RUNNER/PRADO 5VZ / MERU",
 		"brand": "TOYOTA",
 		"cost": 8.0,
@@ -8861,7 +8861,7 @@
 	},
 	{
 		"code": "12204-38030",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "VALVULA PCV TUNDRA / SEQUOIA",
 		"brand": "AISAN JAPAN",
 		"cost": 14.0,
@@ -8871,7 +8871,7 @@
 	},
 	{
 		"code": "83420-20020",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "SENSOR TEMPERATURA SAMURAY 2F / 3F / COROLLA AVILA",
 		"brand": "TOYOTA",
 		"cost": 10.0,
@@ -8891,7 +8891,7 @@
 	},
 	{
 		"code": "83420-20040",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "SENSOR TEMPERATURA COROLLA ARAYA / SKY / BABY CAMRY",
 		"brand": "TOYOTA JAPAN",
 		"cost": 25.0,
@@ -8911,7 +8911,7 @@
 	},
 	{
 		"code": "89422-16010",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "SENSOR TEMP. COROLLA 1.3 / YARIS / TERIOS 02-07 / TERIOS BE-GO (3PINES)",
 		"brand": "TOYOTA",
 		"cost": 8.0,
@@ -9371,7 +9371,7 @@
 	},
 	{
 		"code": "90919-22327 GP",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "JGO. DE CABLES DE BUJIA COROLLA FULL INYECCION 1.6 1.8",
 		"brand": "GP",
 		"cost": 21.0,
@@ -9381,7 +9381,7 @@
 	},
 	{
 		"code": "90919-22211",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "JGO. DE CABLES DE BUJIA COROLLA CARBURADO ARAYA / SKY / BABY CAMRY",
 		"brand": "TOYOTA",
 		"cost": 16.0,
@@ -9391,7 +9391,7 @@
 	},
 	{
 		"code": "90919-21327",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "JGO. DE CABLES DE BUJIA COROLLA AVILA",
 		"brand": "GP",
 		"cost": 13.0,
@@ -9401,7 +9401,7 @@
 	},
 	{
 		"code": "90919-21525",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "JGO. DE CABLES DE BUJIA CELICA ST/182A 92-96",
 		"brand": "GP",
 		"cost": 21.0,
@@ -9411,7 +9411,7 @@
 	},
 	{
 		"code": "90919-21546 P",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "JGO. DE CABLES DE BUJIA LAND CRUISER MOTOR 4.5 AUTANA BURBUJA",
 		"brand": "PRO SP 3000",
 		"cost": 28.5,
@@ -9421,7 +9421,7 @@
 	},
 	{
 		"code": "90919-22329",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "JGO. CABLES DE BUJIA STARLET",
 		"brand": "SEIWA AAA",
 		"cost": 12.0,
@@ -9461,7 +9461,7 @@
 	},
 	{
 		"code": "90919-21553",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "JGO. DE CABLES BUJIA HILUX 4X2/4X4 CARBURADA",
 		"brand": "GP",
 		"cost": 17.0,
@@ -9471,7 +9471,7 @@
 	},
 	{
 		"code": "90919-22387",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "JGO. DE CABLES BUJIA HILUX 4X2/4X4 FULL INJECTION",
 		"brand": "GP",
 		"cost": 21.0,
@@ -9481,7 +9481,7 @@
 	},
 	{
 		"code": "19037-62010 GP",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "JGO. CABLES DE BUJIA PRADO 4 PUERTAS 3CABLES",
 		"brand": "GP",
 		"cost": 21.0,
@@ -9491,7 +9491,7 @@
 	},
 	{
 		"code": "19037-75010 GP",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "JGO. CABLES DE BUJIA MERU 02-09 3RZFE",
 		"brand": "GP",
 		"cost": 21.0,
@@ -9501,7 +9501,7 @@
 	},
 	{
 		"code": "90919-01176 D",
-		"quantity": 0,
+		"quantity": 17,
 		"description": "BUJIA AUTANA / MACHITO 4,5 / MERU",
 		"brand": "DENSO JAPAN",
 		"cost": 2.5,
@@ -9511,7 +9511,7 @@
 	},
 	{
 		"code": "90919-01155",
-		"quantity": 0,
+		"quantity": 18,
 		"description": "BUJIA COROLLA 92-98 ELECTRODO LARGO",
 		"brand": "DENSO JAPAN",
 		"cost": 4.0,
@@ -9521,7 +9521,7 @@
 	},
 	{
 		"code": "90919-01191",
-		"quantity": 0,
+		"quantity": 14,
 		"description": "BUJIA FORTUNER / HILUX KAVAK / 4RUNNER / MOTOR 1GR",
 		"brand": "DENSO JAPON",
 		"cost": 7.5,
@@ -9531,7 +9531,7 @@
 	},
 	{
 		"code": "90919-01210",
-		"quantity": 0,
+		"quantity": 13,
 		"description": "BUJIA COROLLA / 4RUNNER / CAMRY PUNTA DE IRIDIUM",
 		"brand": "DENSO",
 		"cost": 2.85,
@@ -9541,7 +9541,7 @@
 	},
 	{
 		"code": "90919-01275",
-		"quantity": 0,
+		"quantity": 10,
 		"description": "BUJIA COROLLA IRANI 2015 - 2021",
 		"brand": "TOYOTA",
 		"cost": 3.42,
@@ -9551,7 +9551,7 @@
 	},
 	{
 		"code": "90919-01164",
-		"quantity": 0,
+		"quantity": 8,
 		"description": "BUJIA NEW SENSATION 1ZZ 02-09 / LAND CRUISER / TERIOS K3 / YARIS",
 		"brand": "TOYOTA",
 		"cost": 2.53,
@@ -9561,7 +9561,7 @@
 	},
 	{
 		"code": "90919-01164 D",
-		"quantity": 0,
+		"quantity": 16,
 		"description": "BUJIA NEW SENSATION 1ZZ 02-09 / LAND CRUISER / TERIOS / YARIS",
 		"brand": "DENSO JAPAN",
 		"cost": 2.5,
@@ -9571,7 +9571,7 @@
 	},
 	{
 		"code": "90048-51146 CH",
-		"quantity": 0,
+		"quantity": 12,
 		"description": "BUJIA TERIOS BE-GO",
 		"brand": "DENSO CH",
 		"cost": 3.0,
@@ -9591,7 +9591,7 @@
 	},
 	{
 		"code": "90919-01192 CH",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "BUJIA CAMRY 95-06 / 4RUNNER 95-02 / RAV4 1996 / DOBLE ELECTRODO",
 		"brand": "TOYOTA",
 		"cost": 4.21,
@@ -9601,7 +9601,7 @@
 	},
 	{
 		"code": "90919-01192 J",
-		"quantity": 0,
+		"quantity": 18,
 		"description": "BUJIA CAMRY 95-06 / 4 RUNNER 95-02 / RAV4 1996",
 		"brand": "DENSO JAPAN",
 		"cost": 3.5,
@@ -9611,7 +9611,7 @@
 	},
 	{
 		"code": "90919-01235",
-		"quantity": 0,
+		"quantity": 10,
 		"description": "BUJIA FORTUNER / HILUX KAVAK / HILUZ 2,7 / FJ 07-09 / 4RUNNER",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -9631,7 +9631,7 @@
 	},
 	{
 		"code": "90919-01056",
-		"quantity": 0,
+		"quantity": 11,
 		"description": "BUJIA MOTOR 2F/ 3F/ STARLET/ COROLLA 80-88",
 		"brand": "TOYOTA",
 		"cost": 2.3,
@@ -9711,7 +9711,7 @@
 	},
 	{
 		"code": "78160-90A02",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BALANCIN DE ACELERACION 2F / 3F SAMURAY / MACHITO",
 		"brand": "TOYOTA",
 		"cost": 100.0,
@@ -9781,7 +9781,7 @@
 	},
 	{
 		"code": "84306-0D021",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CABLE ESPIRAL AIR BAG COROLLA 03-13",
 		"brand": "TOYOTA",
 		"cost": 18.0,
@@ -9791,7 +9791,7 @@
 	},
 	{
 		"code": "84306-52020",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CABLE ESPIRAL AIR BAG COROLLA 03-13",
 		"brand": "TOYOTA",
 		"cost": 18.0,
@@ -9821,7 +9821,7 @@
 	},
 	{
 		"code": "84307-30090",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CABLE DE ESPIRAL 4RUNNER 10-16",
 		"brand": "TOYOTA",
 		"cost": 30.0,
@@ -9831,7 +9831,7 @@
 	},
 	{
 		"code": "84310-60700",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MANDO LUCES LIMPIAPARABRISAS SAMURAY 3F",
 		"brand": "TOYOTA JAPAN",
 		"cost": 40.0,
@@ -9841,7 +9841,7 @@
 	},
 	{
 		"code": "84310-1A660",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "MANDO LUCES LIMPIAPARABRISAS COROLLA 92-98 BABY CAMRY",
 		"brand": "TOYOTA JAPAN",
 		"cost": 50.0,
@@ -9881,7 +9881,7 @@
 	},
 	{
 		"code": "19102-26150",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "ROTOR DISTRIBUIDOR COROLLA AVILA / AE92",
 		"brand": "RECCON",
 		"cost": 1.5,
@@ -9891,7 +9891,7 @@
 	},
 	{
 		"code": "19102-11031",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "ROTOR DISTIBUIDOR COROLLA 92-02 / STARLET",
 		"brand": "JEC JAPON",
 		"cost": 3.5,
@@ -9901,7 +9901,7 @@
 	},
 	{
 		"code": "19145-14010",
-		"quantity": 0,
+		"quantity": 6,
 		"description": "PLATINO COROLLA AVILA",
 		"brand": "NEW ERA JAPON",
 		"cost": 3.0,
@@ -9911,7 +9911,7 @@
 	},
 	{
 		"code": "19145-14010",
-		"quantity": 0,
+		"quantity": 7,
 		"description": "PLATINO COROLLA AVILA",
 		"brand": "HIBARY JAPAN",
 		"cost": 3.0,
@@ -9921,7 +9921,7 @@
 	},
 	{
 		"code": "90099-52068",
-		"quantity": 0,
+		"quantity": 5,
 		"description": "CONDENSADOR DISTRIBUIDOR COROLLA 1,6 86-89 AVILA",
 		"brand": "NEW ERA JAPON",
 		"cost": 4.0,
@@ -9931,7 +9931,7 @@
 	},
 	{
 		"code": "19145-26060",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PLATINO DE 2F Y 3F",
 		"brand": "TOYOTA",
 		"cost": 4.0,
@@ -9941,7 +9941,7 @@
 	},
 	{
 		"code": "19133-60040",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CONDENSADOR 2F / 3F",
 		"brand": "TOYOTA",
 		"cost": 4.0,
@@ -10041,7 +10041,7 @@
 	},
 	{
 		"code": "16401-72090 F",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "TAPA DE RADIADOR DE COROLLA 92-96 / STARLET (PIN FINO)",
 		"brand": "CENTURY",
 		"cost": 4.5,
@@ -10061,7 +10061,7 @@
 	},
 	{
 		"code": "16401-62100",
-		"quantity": 0,
+		"quantity": 5,
 		"description": "TAPA DE RADIADOR YARIS / PRADO / FORTUNER / HILUX 2.7 / HILUX KAVAK",
 		"brand": "DENSO JAPON",
 		"cost": 9.0,
@@ -10071,7 +10071,7 @@
 	},
 	{
 		"code": "16401-62100",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TAPA DE RADIADOR YARIS / PRADO / FORTUNER / HILUX 2.7 / HILUX KAVAK",
 		"brand": "CENTURY",
 		"cost": 5.0,
@@ -10091,7 +10091,7 @@
 	},
 	{
 		"code": "16401-72090 G",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "TAPA DE RADIADOR COROLLA AVILA / ARAYA / /STARLET 90-02 / HILUX (PIN GRUESO)",
 		"brand": "CENTURY",
 		"cost": 4.7,
@@ -10101,7 +10101,7 @@
 	},
 	{
 		"code": "16401-87403",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TAPA DE RADIADOR TERIOS TODAS PICO ANCHO 1,1 LBS.",
 		"brand": "HKT JAPAN",
 		"cost": 5.6,
@@ -10111,7 +10111,7 @@
 	},
 	{
 		"code": "16401-67150",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TAPA DE RADIADOR 4,5",
 		"brand": "HKT JAPAN",
 		"cost": 5.6,
@@ -10121,7 +10121,7 @@
 	},
 	{
 		"code": "19101-16140",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TAPA DISTRIBUCION DE COROLLA AE92 / AE101 F.I. IMPORTADO",
 		"brand": "NAKAMOTO",
 		"cost": 10.0,
@@ -10131,7 +10131,7 @@
 	},
 	{
 		"code": "19101-11300",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TAPA DISTRIBUCION DE STARLET / COROLLA 90-97 CARBURADO",
 		"brand": "NAKAMOTO",
 		"cost": 14.3,
@@ -10141,7 +10141,7 @@
 	},
 	{
 		"code": "19101-45060",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TAPA DISTRIBUCION DE LAND CRUISER 76-84 3F MACHTO",
 		"brand": "NAKAMOTO",
 		"cost": 4.0,
@@ -10151,7 +10151,7 @@
 	},
 	{
 		"code": "19101-66010",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TAPA DISTRIBUIDOR LAND CRUISER 1FZ 4.5",
 		"brand": "NAKAMOTO",
 		"cost": 8.0,
@@ -10161,7 +10161,7 @@
 	},
 	{
 		"code": "12180-73011",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "TAPA ACEITE DE MOTOR STARLET / PREVIA",
 		"brand": "TOYOTA JAPAN",
 		"cost": 13.0,
@@ -10241,7 +10241,7 @@
 	},
 	{
 		"code": "31250-60080",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "DISCO DE EMBRAGUE DE 2F/3F",
 		"brand": "AISIN/JAPAN",
 		"cost": 90.0,
@@ -10261,7 +10261,7 @@
 	},
 	{
 		"code": "31250-87404",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "DISCO DE EMBRAGUE TERIOS 02-07",
 		"brand": "AISIN/JAPAN",
 		"cost": 65.0,
@@ -10281,7 +10281,7 @@
 	},
 	{
 		"code": "31210-87404",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PLATO PRESOR CLUTH TERIOS 02-07",
 		"brand": "AISIN/JAPAN",
 		"cost": 123.0,
@@ -10291,7 +10291,7 @@
 	},
 	{
 		"code": "31210-60150",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PLATO PRESOR CLUTH 2F / 3F Y 4,5",
 		"brand": "AISIN/JAPAN",
 		"cost": 130.0,
@@ -10371,7 +10371,7 @@
 	},
 	{
 		"code": "90363-52086",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "COLLARIN DE CLOCHT SAMURAI MACHITO 2F-3F",
 		"brand": "NACHI",
 		"cost": 28.0,
@@ -10381,7 +10381,7 @@
 	},
 	{
 		"code": "31230-87505-02",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "COLLARIN DE CLUTH TERIOS 02-07",
 		"brand": "KOYO/JAPAN",
 		"cost": 22.0,
@@ -10471,7 +10471,7 @@
 	},
 	{
 		"code": "04313-30100",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "KIT DE BOMBIN INFERIOR ARAYA / COROLLA 92-02 / TERIOS 02-07 / HILUX 22R",
 		"brand": "TOYOTA",
 		"cost": 2.5,
@@ -10551,7 +10551,7 @@
 	},
 	{
 		"code": "31470-35130",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BOMBIN INFERIOR DE MERU / HILUX 00-05",
 		"brand": "TOYOTA",
 		"cost": 20.0,
@@ -10901,7 +10901,7 @@
 	},
 	{
 		"code": "90369-T0003 2DUF054N-2GR",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "RODAMIENTO DELANT. HILUX 2.7 / FORTUNER / KAVAK - ABS",
 		"brand": "KOYO",
 		"cost": 39.33,
@@ -10911,7 +10911,7 @@
 	},
 	{
 		"code": "90369-54002 DAC54960051",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "RODAMIENTO DELANT. PRADO / MERU / 4RUNNER",
 		"brand": "KOYO",
 		"cost": 28.0,
@@ -10921,7 +10921,7 @@
 	},
 	{
 		"code": "90043-63368 DAC38700038",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "RODAMIENTO DELANT. TERIOS 02-07",
 		"brand": "KOYO",
 		"cost": 15.0,
@@ -10931,7 +10931,7 @@
 	},
 	{
 		"code": "90043-63248",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "RODAMIENTO TRAS. TERIOS 02 - 07 CON RETENEDOR",
 		"brand": "BROWN",
 		"cost": 12.0,
@@ -10941,7 +10941,7 @@
 	},
 	{
 		"code": "90043-63368 DAC38700038 BG",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "RODAMIENTO DELANT. TERIOS BE-GO ABS",
 		"brand": "KOYO",
 		"cost": 14.0,
@@ -10951,7 +10951,7 @@
 	},
 	{
 		"code": "90368-45087 SET-80",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "RODAMIENTO TRAS. SAMURAY / MACHITO 2F-3F / AUTANA / BURBUJA",
 		"brand": "TIMKEM",
 		"cost": 0,
@@ -10961,7 +10961,7 @@
 	},
 	{
 		"code": "90080-36149 DAC40740042",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "RODAMIENTO DELANT. DE COROLLA NEW SANSATION 03-14",
 		"brand": "KOYO",
 		"cost": 15.0,
@@ -10971,7 +10971,7 @@
 	},
 	{
 		"code": "90363-40079 DAC40750039",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "RODAMIENTO DELANT. DE YARIS TODOS / YARIS 06-09",
 		"brand": "KOYO",
 		"cost": 15.0,
@@ -10981,7 +10981,7 @@
 	},
 	{
 		"code": "90369-38010 DAC38720036",
-		"quantity": 0,
+		"quantity": 4,
 		"description": "RODAMIENTO DELANT. COROLLA SKY / ARAYA / BABY CAMRY 90-02",
 		"brand": "KOYO",
 		"cost": 10.0,
@@ -11211,7 +11211,7 @@
 	},
 	{
 		"code": "90369-35029",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "RODAMIENTO DELANT. STARLET 84",
 		"brand": "TOYOTA",
 		"cost": 11.5,
@@ -11371,7 +11371,7 @@
 	},
 	{
 		"code": "42423-87401",
-		"quantity": 0,
+		"quantity": 8,
 		"description": "RETEN RODA TRAS PUNTA DE EJE TERIOS 02-07",
 		"brand": "CRAFT",
 		"cost": 4.0,
@@ -11411,7 +11411,7 @@
 	},
 	{
 		"code": "6302-2RSH/C3",
-		"quantity": 0,
+		"quantity": 3,
 		"description": "RODAMIENTO POLEA HILUX KAVAK / FORTUNER / 4RUNNER 1GR 15X42X13MM",
 		"brand": "NSK",
 		"cost": 8.0,
@@ -11661,7 +11661,7 @@
 	},
 	{
 		"code": "85046-71030",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TAPA WIPPER FARO DERECHO FORTUNER 11-19",
 		"brand": "TOYOTA JAPAN",
 		"cost": 18.0,
@@ -11671,7 +11671,7 @@
 	},
 	{
 		"code": "45100-12610",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "VOLANTE CONJUNTO COROLLA 92-98 BABY CAMRY",
 		"brand": "TOYOTA JAPAN",
 		"cost": 50.0,
@@ -11681,7 +11681,7 @@
 	},
 	{
 		"code": "53420-12340",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BISAGRA DE CAPO IZQUI. COROLLA 99-02",
 		"brand": "TOYOTA JAPAN",
 		"cost": 20.0,
@@ -11691,7 +11691,7 @@
 	},
 	{
 		"code": "53410-12340",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BISAGRA DE CAPO DERE. COROLLA 99-02",
 		"brand": "TOYOTA JAPAN",
 		"cost": 20.0,
@@ -11701,7 +11701,7 @@
 	},
 	{
 		"code": "85247-90A01",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TAPA ESCUDO LIMPIA PARABRISAS SAMURAY 2F / 3F",
 		"brand": "TOYOTA JAPAN",
 		"cost": 10.0,
@@ -11711,7 +11711,7 @@
 	},
 	{
 		"code": "53384-60030",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "TOPE DE GOMA CAPO SAMURAY 2F / 3F",
 		"brand": "TOYOTA JAPAN",
 		"cost": 8.0,
@@ -11721,7 +11721,7 @@
 	},
 	{
 		"code": "90480-15002",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "GOMA VARILLA CAPO SAMURAY / AUTANA",
 		"brand": "TOYOTA",
 		"cost": 3.0,
@@ -12061,7 +12061,7 @@
 	},
 	{
 		"code": "90916-T2007 BAN",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "CORREA UNICA DE TERIOS BEGO",
 		"brand": "BANDO",
 		"cost": 18.0,
@@ -12071,7 +12071,7 @@
 	},
 	{
 		"code": "90048-31056",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA UNICA DE TERIOS 02-07",
 		"brand": "TOYOTA",
 		"cost": 16.6,
@@ -12081,7 +12081,7 @@
 	},
 	{
 		"code": "90048-31056 MITS",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "CORREA UNICA DE TERIOS 02-07",
 		"brand": "MITSUBA",
 		"cost": 7.5,
@@ -12111,7 +12111,7 @@
 	},
 	{
 		"code": "90916-02141",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA D/VENTILADOR Y ALTERNADO 3F 84/92",
 		"brand": "TOYOTA",
 		"cost": 8.94,
@@ -12131,7 +12131,7 @@
 	},
 	{
 		"code": "90916-02353 MTR",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "CORREA DE ALTERNADOR DE MOTOR 4.5",
 		"brand": "MOTRO",
 		"cost": 5.0,
@@ -12141,7 +12141,7 @@
 	},
 	{
 		"code": "90916-02353 QP",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "CORREA DE ALTERNADOR DE MOTOR 4.5",
 		"brand": "QP",
 		"cost": 3.0,
@@ -12151,7 +12151,7 @@
 	},
 	{
 		"code": "90916-02500",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA D/VENTILAD Y ALTERNAD YARIS 99/05",
 		"brand": "TOYOTA",
 		"cost": 8.06,
@@ -12161,7 +12161,7 @@
 	},
 	{
 		"code": "90916-02556",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "CORREA D/VENTILAD Y ALTERNAD YARIS 06-10",
 		"brand": "TOYOTA",
 		"cost": 8.0,
@@ -12171,7 +12171,7 @@
 	},
 	{
 		"code": "90916-02571",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA UNICA DE HILUX KAVAK 4.0 / RUNNER / 1GR",
 		"brand": "TOYOTA",
 		"cost": 19.0,
@@ -12181,7 +12181,7 @@
 	},
 	{
 		"code": "90916-02571 QP",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA UNICA DE HILUX KAVAK 4.0 / RUNNER / 1GR",
 		"brand": "QP",
 		"cost": 11.0,
@@ -12201,7 +12201,7 @@
 	},
 	{
 		"code": "90916-02575 MTR",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA DE DIRECCION HIDRAULICA YARIS 00-05",
 		"brand": "MOTRO",
 		"cost": 3.0,
@@ -12211,7 +12211,7 @@
 	},
 	{
 		"code": "90916-02636",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA VENTILADOR HILUX 2TR-FE 2.7",
 		"brand": "TOYOTA",
 		"cost": 22.0,
@@ -12231,7 +12231,7 @@
 	},
 	{
 		"code": "99364-20870",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA DE AIRE COROLLA AE111/112 1992-02 PRADO 4PK870",
 		"brand": "TOYOTA",
 		"cost": 7.1,
@@ -12281,7 +12281,7 @@
 	},
 	{
 		"code": "99366-H1930",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "CORREA UNICA DE COROLLA 03-08",
 		"brand": "TOYOTA",
 		"cost": 12.0,
@@ -12291,7 +12291,7 @@
 	},
 	{
 		"code": "99366-H1730 MTR",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA D/ALTERNADOR COROLLA 2009-2014",
 		"brand": "MOTRO",
 		"cost": 11.0,
@@ -12301,7 +12301,7 @@
 	},
 	{
 		"code": "99366-H1730",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CORREA UNICA COROLLA 2009-2014",
 		"brand": "TOYOTA",
 		"cost": 11.0,
@@ -12361,7 +12361,7 @@
 	},
 	{
 		"code": "398",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CRUCETA TERIOS 398 CHAVETA EXTERNA",
 		"brand": "PRESICION",
 		"cost": 4.85,
@@ -12371,7 +12371,7 @@
 	},
 	{
 		"code": "369",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CRUCETA TERIOS / MERU TRAS. Y DEL. / HILUX DEL./ FORTUNER DEL. CHAVETA EXTERNA",
 		"brand": "PRESICION",
 		"cost": 5.0,
@@ -12401,7 +12401,7 @@
 	},
 	{
 		"code": "04371-10011",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CRUCETA CA\u00d1A DE DIRECCION SAMURAY / MERU / MACHITO (GUT 11)",
 		"brand": "ICHIBAN",
 		"cost": 15.0,
@@ -12411,7 +12411,7 @@
 	},
 	{
 		"code": "04371-10011",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "CRUCETA CA\u00d1A DE DIRECCION SAMURAY / MERU / MACHITO (GUT 11)",
 		"brand": "GMC",
 		"cost": 12.0,
@@ -12581,7 +12581,7 @@
 	},
 	{
 		"code": "04465-60030",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLA FRONT. MACHITO/AUTANA/BURBUJA 93-07 (7298)",
 		"brand": "TOYOTA",
 		"cost": 25.0,
@@ -12601,7 +12601,7 @@
 	},
 	{
 		"code": "04495-B4070",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "BANDAS TRAS. FRENO TERIOS 02-14 (TODAS)",
 		"brand": "DAIHATSU",
 		"cost": 35.0,
@@ -12621,7 +12621,7 @@
 	},
 	{
 		"code": "04465-12240",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLA FRONT. COROLLA 1,8 99-02 (7153)",
 		"brand": "TOYOTA",
 		"cost": 28.0,
@@ -12751,7 +12751,7 @@
 	},
 	{
 		"code": "04465-87401",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRONT. TERIOS 02-07 (7417)",
 		"brand": "TOYOTA",
 		"cost": 16.0,
@@ -12761,7 +12761,7 @@
 	},
 	{
 		"code": "04465-87401 MTR",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRONT. TERIOS 02-07 (7417)",
 		"brand": "MOTRO",
 		"cost": 13.5,
@@ -12791,7 +12791,7 @@
 	},
 	{
 		"code": "04465-28520",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRONT. PREVIA (6582)",
 		"brand": "TOYOTA",
 		"cost": 17.0,
@@ -12801,7 +12801,7 @@
 	},
 	{
 		"code": "04465-02260",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRON. COROLLA 08-14 (8335)",
 		"brand": "TOYOTA",
 		"cost": 18.0,
@@ -12811,7 +12811,7 @@
 	},
 	{
 		"code": "04465-52260",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRONT. YARIS 08-12 (4265)",
 		"brand": "TOYOTA",
 		"cost": 17.0,
@@ -12821,7 +12821,7 @@
 	},
 	{
 		"code": "04465-52032",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRONT. YARIS 00-05 (7704)",
 		"brand": "TOYOTA",
 		"cost": 22.0,
@@ -12841,7 +12841,7 @@
 	},
 	{
 		"code": "04465-02330",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "PASTILLAS FRON. COROLLA 09-14",
 		"brand": "TOYOTA",
 		"cost": 18.0,
@@ -12851,7 +12851,7 @@
 	},
 	{
 		"code": "04465-02410",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "PASTILLAS FRONT. COROLLA 15-20",
 		"brand": "TOYOTA",
 		"cost": 18.0,
@@ -12901,7 +12901,7 @@
 	},
 	{
 		"code": "04465-10020 JAPAN",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "PASTILLAS FRON. STARLET 89-95",
 		"brand": "ICHIBAN",
 		"cost": 15.0,
@@ -12941,7 +12941,7 @@
 	},
 	{
 		"code": "04465-33450",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRONT. CAMRY 06-11 (8331)",
 		"brand": "TOYOTA",
 		"cost": 25.0,
@@ -12991,7 +12991,7 @@
 	},
 	{
 		"code": "04465-26421",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRONT. HIACE",
 		"brand": "TOYOTA",
 		"cost": 30.0,
@@ -13051,7 +13051,7 @@
 	},
 	{
 		"code": "04465-35020 JAPAN",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRON. HILUX 4X2 99-04(7205)",
 		"brand": "ICHIBAN",
 		"cost": 18.0,
@@ -13111,7 +13111,7 @@
 	},
 	{
 		"code": "04465-35170 JAPAN",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRONT. LAND CRUISER 2F / 3F 7069",
 		"brand": "ICHIMAX",
 		"cost": 18.0,
@@ -13121,7 +13121,7 @@
 	},
 	{
 		"code": "04465-35170",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRONT. LAND CRUISER 2F / 3F 7069",
 		"brand": "ANZEN",
 		"cost": 13.32,
@@ -13131,7 +13131,7 @@
 	},
 	{
 		"code": "04465-35240",
-		"quantity": 0,
+		"quantity": 2,
 		"description": "PASTILLAS FRON. MERU / 4RUNNER / PRADO 00-02",
 		"brand": "TOYOTA",
 		"cost": 18.5,
@@ -13151,7 +13151,7 @@
 	},
 	{
 		"code": "04465-35290 MTR",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS FRON. 4RUNNER/FORTUNER/HILUX KAVAK (7877)",
 		"brand": "MOTRO",
 		"cost": 25.0,
@@ -13231,7 +13231,7 @@
 	},
 	{
 		"code": "04466-02210",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS TRAS. COROLLA 2016 IRANI PATRULLA",
 		"brand": "TOYOTA",
 		"cost": 15.0,
@@ -13241,7 +13241,7 @@
 	},
 	{
 		"code": "04466-02040",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS TRAS. COROLLA 03-07 NEW SENSATION",
 		"brand": "TOYOTA",
 		"cost": 45.0,
@@ -13281,7 +13281,7 @@
 	},
 	{
 		"code": "04466-12040",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS TRAS. COROLLA 1,8 99-02 (7223)",
 		"brand": "TOYOTA",
 		"cost": 21.5,
@@ -13301,7 +13301,7 @@
 	},
 	{
 		"code": "04466-60020",
-		"quantity": 0,
+		"quantity": 1,
 		"description": "PASTILLAS TRAS. AUTANA/BURBUJA / 4 RUNNER 03-20",
 		"brand": "TOYOTA",
 		"cost": 19.5,

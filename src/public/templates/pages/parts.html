@@ -14,7 +14,7 @@
       <table>
         <thead>
           <tr>
-            <th colspan="6" class="paginate_table">
+            <th colspan="7" class="paginate_table">
               <a href="/">
                 Primera pagina
               </a>
@@ -22,12 +22,12 @@
                 Anterior pagina
               </a>
               <span>
-                {{ (request.args.get('page')|int or 1) * 29 }} de {{ data.parts_len }}
+                {{ data.total }} de {{ data.parts_len }}
               </span>
-              <a href="{% if request.args.get('page')|int != 46 %} /?page={{ (request.args.get('page')|int or 1) + 1 }} {% endif %}">
+              <a href="{% if request.args.get('page')|int != data.last_page %} /?page={{ (request.args.get('page')|int or 1) + 1 }} {% endif %}">
                 Siguiente pagina
               </a>
-              <a href="/?page=46">
+              <a href="/?page={{ data.last_page }}">
                 Ultima pagina
               </a>
             </th>
