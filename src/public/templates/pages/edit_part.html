@@ -7,7 +7,7 @@
 {% block content %}
   <main class="admin_main">
     <h1>Editar una parte</h1>
-    <form action="/parts" method="POST">
+    <form action="/parts/{{ data.id }}" method="POST">
       <label for="code">Codigo</label>
       <input type="text" id="code" name="code" value="{{ data.code }}" required>
       <label for="description">Descripcion</label>

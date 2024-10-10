@@ -1,4 +1,4 @@
-from flask import Blueprint, request, redirect
+from flask import Blueprint, request, redirect, flash
 from src.controllers import parts as part_controller
 
 parts_routes = Blueprint("parts", __name__)
@@ -16,10 +16,21 @@ def post_parts():
   
   return redirect("/")
 
-@parts_routes.patch("/parts/<id>")
-def patch_parts(id):
-  return 'Patch parts'
+@parts_routes.post("/parts/<id>")
+def edit_parts(id):
+  respuesta = part_controller.edit_part(id, request.form)
+  
+  if respuesta[1] != 200:
+    flash(respuesta[0]["message"])
+    return redirect(f"/edit/{id}")
+  
+  return redirect('/')
 
-@parts_routes.delete("/parts/<id>")
+@parts_routes.get("/parts/<id>")
 def delete_parts(id):
-  return 'Delete parts'
+  respuesta = part_controller.delete_part(id)
+  
+  if respuesta[1] != 200:
+    flash(respuesta[0]["message"])
+  
+  return redirect('/')

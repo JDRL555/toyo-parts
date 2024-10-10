@@ -68,7 +68,7 @@
               <td class="admin_button edit" onclick="window.location.assign('/edit/{{ part.id }}')">
                 ✏️
               </td>
-              <td class="admin_button delete" onclick="confirm('Seguro que deseas eliminar {{ part.description }}')">
+              <td class="admin_button delete" onclick="confirm('Seguro que deseas eliminar {{ part.description }}') && window.location.assign('/parts/{{ part.id }}')">
                 🗑️
               </td>
             </tr>

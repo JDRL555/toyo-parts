@@ -24,11 +24,11 @@ def index_page():
     if page != 1:
       len_last_parts = len(part_controller.get_parts(page=page - 1))
     
+    division = parts_len / 29
+    last_page = int(division) + 1 if type(division) == float else int(division)
+    total = 29 if page == 1 else ((page - 1) * len_last_parts) + len(parts)
+    
     if role.name != "cliente":
-      division = parts_len / 29
-      last_page = int(division) + 1 if type(division) == float else int(division)
-      total = 29 if page == 1 else ((page - 1) * len_last_parts) + len(parts)
-      
       return render_template("pages/admin.html", data={ 
       "parts": parts,
       "parts_len": parts_len,
@@ -77,6 +77,7 @@ def edit_part(id):
     return redirect("/")
   
   return render_template("pages/edit_part.html", data={
+    "id": part.id,
     "code": part.code,
     "description": part.description,
     "quantity": part.quantity,

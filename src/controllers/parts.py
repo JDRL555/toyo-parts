@@ -81,3 +81,89 @@ def create_part(data):
   return {
     "message": "Parte creada exitosamente!"
   }, 201
+  
+def edit_part(id, new_data):
+  part = Parts.query.get(id)
+  
+  if not part:
+    return {
+      "message": "Parte no encontrada"
+    }, 404
+    
+  if new_data.get("code"): part.code = new_data.get("code")
+  if new_data.get("description"): part.description = new_data.get("description")
+  
+  if new_data.get("quantity"): 
+    try:
+      part.quantity = int(new_data.get("quantity"))
+    except:
+      return {
+        "message": "La cantidad debe ser un numero valido"
+      }
+      
+  if new_data.get("cost"): 
+    try:
+      part.cost = float(new_data.get("cost"))
+    except:
+      return {
+        "message": "El costo debe ser un numero valido"
+      }
+      
+    
+  if new_data.get("price"): 
+    try:
+      part.price = float(new_data.get("price"))
+    except:
+      return {
+        "message": "El precio debe ser un numero valido"
+      }
+      
+    
+  if new_data.get("inventory"): 
+    try:
+      part.inventory = float(new_data.get("inventory"))
+    except:
+      return {
+        "message": "El inventario debe ser un numero valido"
+      }
+      
+  if new_data.get("brand_id"):
+    brand = Brands.query.get(new_data.get("brand_id"))
+    
+    if not brand:
+      return {
+        "message": "Marca no encontrada"
+      }, 
+      
+    part.brand_id = new_data.get("brand_id")
+      
+  if new_data.get("category_id"):
+    category = Categories.query.get(new_data.get("category_id"))
+    
+    if not category:
+      return {
+        "message": "Categoria no encontrada"
+      }, 404
+      
+    part.category_id = new_data.get("category_id")
+  
+  db.session.commit()
+  
+  return {
+    "message": "Parte actualizada"
+  }, 200
+  
+def delete_part(id):
+  part = Parts.query.get(id)
+  
+  if not part:
+    return {
+      "message": "Parte no encontrada"
+    }, 404
+    
+  db.session.delete(part)
+  db.session.commit()
+  
+  return {
+    "message": "Parte eliminada"
+  }, 200
