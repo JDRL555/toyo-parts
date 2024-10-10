@@ -1,0 +1,12 @@
+nav {
+  background-color: rgb(247,247,247);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+nav img {
+  width: 200px;
+}
+

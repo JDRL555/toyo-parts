@@ -1,0 +1,38 @@
+{% extends 'layouts/layout.html' %}
+
+{% block styles %}
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/create_part.css') }}">
+{% endblock %}
+
+{% block content %}
+  <main class="admin_main">
+    <h1>Creando una nueva parte</h1>
+    <form action="/parts" method="POST">
+      <label for="code">Codigo</label>
+      <input type="text" id="code" name="code" required>
+      <label for="description">Descripcion</label>
+      <textarea type="text" id="description" name="description" required></textarea>
+      <label for="quantity">Cantidad</label>
+      <input type="number" id="quantity" name="quantity" required>
+      <label for="brand_id">Marca</label>
+      <select name="brand_id" id="brand_id" required>
+        {% for brand in data.brands %}
+          <option value="{{ brand.id }}">{{ brand.name }}</option>
+        {% endfor %}
+      </select>
+      <label for="cost">Costo</label>
+      <input type="number" id="cost" name="cost" step=".01">
+      <label for="price">Precio</label>
+      <input type="number" id="price" name="price" required step=".01">
+      <label for="inventory">Inventario</label>
+      <input type="number" id="inventory" name="inventory" required step=".01">
+      <label for="category_id">Categoria</label>
+      <select name="category_id" id="category_id" required>
+        {% for category in data.categories %}
+          <option value="{{ category.id }}">{{ category.name }}</option>
+        {% endfor %}
+      </select>
+      <button>Crear nueva parte</button>
+    </form>
+  </main>
+{% endblock %}

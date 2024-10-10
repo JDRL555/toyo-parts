@@ -1,19 +1,16 @@
-from flask import Blueprint
+from flask import Blueprint, request, redirect, flash
+from src.controllers import auth as auth_controller
 
 auth_routes = Blueprint("auth", __name__)
 
-@auth_routes.get("/")
-def get_auth():
-  return 'Get auth'
+@auth_routes.post("/login")
+def login():
+  error = auth_controller.login(email=request.form["email"], password=request.form["password"])
+  if error[1] != 200:
+    flash(error[0]["message"])
+  return redirect("/")
 
-@auth_routes.post("/")
-def post_auth():
-  return 'Post auth'
-
-@auth_routes.patch("/")
-def patch_auth():
-  return 'Patch auth'
-
-@auth_routes.delete("/")
-def delete_auth():
-  return 'Delete auth'
+@auth_routes.get("/logout")
+def logout():
+  auth_controller.logout()
+  return redirect("/")

@@ -1,0 +1,48 @@
+.parts_title {
+  margin-left: 30px;
+}
+
+h1.parts_title {
+  margin-bottom: 0;
+}
+
+h2.parts_title {
+  margin-top: 0;
+}
+
+h2.no_encontrado {
+  text-align: center;
+  color: rgb(236,50,55);
+}
+
+th.paginate_table a {
+  padding: 0 20px;
+}
+
+.admin_button {
+  cursor: pointer;
+  transition: .3s;
+}
+
+a.admin_button {
+  padding: 10px;
+  margin-right: 30px;
+}
+
+.edit:hover {
+  background-color: rgb(80, 80, 251);
+}
+
+.delete:hover {
+  background-color: rgb(251, 197, 80);
+}
+
+.create:hover {
+  background-color: rgb(148, 251, 80);
+}
+
+div.header_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

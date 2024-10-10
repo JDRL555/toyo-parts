@@ -1,0 +1,45 @@
+.main-content {
+  display: flex;
+}
+
+.main-content .background {
+  height: 87vh;
+  background: url(../imgs/local.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 50%;
+}
+
+.main-content .form-container {
+  width: 50%;
+  background-color: rgb(236,50,55);
+}
+
+.form-container form {
+  display: block;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.form-container form h1 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.form-container form div {
+  padding: 10px 0;
+}
+
+.form-container form div:last-of-type {
+  padding-bottom: 15px;
+}
+
+.form-container a {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}

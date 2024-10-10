@@ -1,0 +1,23 @@
+{% macro navbar() %}
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/navbar.css') }}">
+  <nav>
+    <img src="{{ url_for('static', filename='imgs/logo.jpg') }}" alt="logo">
+    <div>
+      {% if current_user.is_authenticated %}
+        <a href="/">
+          <button>Ver partes</button>
+        </a>
+        <a href="/logout">
+          <button>Cerrar sesion</button>
+        </a>
+      {% else %}
+        <a href="/">
+          <button>Iniciar sesion</button>
+        </a>
+        <a href="/register">
+          <button>Registrarse</button>
+        </a>
+      {% endif %}
+    </div>
+  </nav>
+{% endmacro %}

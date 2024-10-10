@@ -1,0 +1,80 @@
+{% extends 'layouts/layout.html' %}
+
+{% block styles %}
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/parts.css') }}">
+{% endblock %}
+
+{% block content %}
+  <main>
+    <div class="header_container">
+      <div>
+        <h1 class="parts_title">Bievenido, administrador {{ current_user.fullname }}!</h1>
+        <h2 class="parts_title">Estos son los repuestos para poder administrar</h2>
+      </div>
+      <a href="/create" class="admin_button create">
+        ➕
+      </a>
+    </div>
+    {% if data.parts|length == 0 %}
+      <h2 class="no_encontrado">No hay o no se encuentran los productos solicitados...</h2>
+    {% else %}
+      <table>
+        <thead>
+          <tr>
+            <th colspan="11" class="paginate_table">
+              <a href="/">
+                Primera pagina
+              </a>
+              <a href="{% if request.args.get('page') != None and request.args.get('page')|int != 1 %} /?page={{ (request.args.get('page')|int or 1) - 1 }} {% else %} / {% endif %} ">
+                Anterior pagina
+              </a>
+              <span>
+                {{ data.total }} de {{ data.parts_len }}
+              </span>
+              <a href="{% if request.args.get('page')|int != data.last_page %} /?page={{ (request.args.get('page')|int or 1) + 1 }} {% endif %}">
+                Siguiente pagina
+              </a>
+              <a href="/?page={{ data.last_page }}">
+                Ultima pagina
+              </a>
+            </th>
+          </tr>
+          <tr>
+            <th>ID</th>
+            <th>Codigo</th>
+            <th>Descripcion</th>
+            <th>Cantidad</th>
+            <th>Marca</th>
+            <th>Costo</th>
+            <th>Precio</th>
+            <th>Inventario</th>
+            <th>Categoria</th>
+            <th>Editar</th>
+            <th>Eliminar</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for part in data.parts %}
+            <tr>
+              <td>{{ part.id }}</td>
+              <td>{{ part.code }}</td>
+              <td>{{ part.description }}</td>
+              <td>{{ part.quantity }}</td>
+              <td>{{ part.brand.name }}</td>
+              <td>{{ part.cost }}$</td>
+              <td>{{ part.price }}$</td>
+              <td>{{ part.inventory }}</td>
+              <td>{{ part.category.name }}</td>
+              <td class="admin_button edit" onclick="window.location.assign('/edit/{{ part.id }}')">
+                ✏️
+              </td>
+              <td class="admin_button delete" onclick="confirm('Seguro que deseas eliminar {{ part.description }}') && window.location.assign('/parts/{{ part.id }}')">
+                🗑️
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% endif %}
+  </main>
+{% endblock %}
